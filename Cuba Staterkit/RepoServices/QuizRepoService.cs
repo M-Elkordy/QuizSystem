@@ -22,7 +22,8 @@ namespace Cuba_Staterkit.RepoServices
 
         public void InsertQuiz(Quiz quiz)
         {
-            
+            Context.Quizes.Add(quiz);
+            Context.SaveChanges();
         }
 
         public void UpdateQuiz(int id, Quiz quiz)

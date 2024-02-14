@@ -3,7 +3,7 @@ using Cuba_Staterkit.Models;
 
 namespace Cuba_Staterkit.RepoServices
 {
-    public class SessionRepoService : ISession
+    public class SessionRepoService : IClassSession
     {
         public Context Context { get;}
         public SessionRepoService( Context context) 
@@ -23,7 +23,8 @@ namespace Cuba_Staterkit.RepoServices
 
         public void InsertSession(Session session)
         {
-            
+            Context.Sessions.Add(session);
+            Context.SaveChanges();
         }
 
         public void UpdateSession(int id, Session session)

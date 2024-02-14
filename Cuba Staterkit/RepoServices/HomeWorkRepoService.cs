@@ -22,7 +22,8 @@ namespace Cuba_Staterkit.RepoServices
 
         public void InsertHomeWork(HomeWork homework)
         {
-            
+            Context.HomeWorks.Add(homework);
+            Context.SaveChanges();
         }
 
         public void UpdateHomeWork(int id, HomeWork homework)

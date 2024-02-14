@@ -11,8 +11,8 @@ namespace Cuba_Staterkit.Models
     {
         [Key]
         public Guid ID { get; set; }
-        [Required]
-        public string Body { get; set; }
+        public string? Body { get; set; }
+        public string? ImgUrl { get; set; }
         [Required]
         public string Answers { get; set; }
         [Required]

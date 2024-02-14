@@ -2,6 +2,9 @@ using Cuba_Staterkit.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging.Debug;
 using Microsoft.AspNetCore.Identity;
+using Cuba_Staterkit.RepoServices;
+using Microsoft.Extensions.DependencyInjection;
+using Cuba_Staterkit.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,10 +22,23 @@ builder.Services.AddDbContext<Context>(options =>
     options.UseSqlServer(connectionString);
 });
 
-builder.Services.AddDefaultIdentity<Cuba_Staterkit.Models.ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<Context>();
+builder.Services.AddIdentity<ApplicationUser,IdentityRole>()
+    .AddEntityFrameworkStores<Context>()
+    .AddDefaultUI()
+    .AddDefaultTokenProviders();
+
+// Services registration  
+builder.Services.AddScoped<IQuiz, QuizRepoService>();
+builder.Services.AddScoped<IClassSession, SessionRepoService>();
+builder.Services.AddScoped<IQuestion, QuestionRepoService>();
+
+// injection 
+builder.Services.AddScoped<IQuiz, QuizRepoService>();
+builder.Services.AddScoped<IClassSession, SessionRepoService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
@@ -39,10 +55,18 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Dashboard}/{action=Index}/{id?}");
+
+app.MapAreaControllerRoute(
+             name: "default",
+             areaName: "Identity",
+             pattern: "{controller=Account}/{action=Login}");
+
+app.MapRazorPages();
 
 app.Run();

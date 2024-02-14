@@ -1,5 +1,6 @@
 ﻿using Cuba_Staterkit.Data;
 using Cuba_Staterkit.Models;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Cuba_Staterkit.RepoServices
 {
@@ -22,7 +23,16 @@ namespace Cuba_Staterkit.RepoServices
 
         public void InsertQuestion(Question question)
         {
-            throw new NotImplementedException();
+            Context.Questions.Add(question);
+            Context.SaveChanges();
+        }
+        public void InsertQuestions(List<Question> questions)
+        {
+            foreach (Question question in questions)
+            {
+                Context.Questions.Add(question);
+                Context.SaveChanges();
+            }
         }
 
         public void UpdateQuestion(int id, Question question)
