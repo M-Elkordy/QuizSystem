@@ -1,0 +1,1317 @@
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+C:\Users\DeveloperPC\Desktop\Cuba_New\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+D:\Work\Dhairya\PC\Cuba\Cuba\Cuba Staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+E:\Dashboard Templates\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+E:\Dashboard Templates\staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+E:\Dashboard Templates\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CopyComplete
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Humanizer.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Common.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CopyComplete
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+E:\Adndan Project\asnet-core cube\staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\staterkit\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Azure.Core.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Azure.Identity.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Humanizer.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Common.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.CodeDom.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cs
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CopyComplete
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+D:\Quiz System Project\Quiz System\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\appsettings.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.staticwebassets.runtime.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.exe
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.deps.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.RazorAssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.Cuba Staterkit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.build.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cuba Staterkit.props
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\bundle\Cuba Staterkit.styles.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\scopedcss\projectbundle\Cuba Staterkit.bundle.scp.css
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.csproj.CopyComplete
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\refint\Cuba Staterkit.dll
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.pdb
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\Cuba Staterkit.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\Quiz System\Quiz-System\Cuba Staterkit\obj\Debug\net7.0\ref\Cuba Staterkit.dll
