@@ -22,7 +22,7 @@ builder.Services.AddDbContext<Context>(options =>
     options.UseSqlServer(connectionString);
 });
 
-builder.Services.AddIdentity<ApplicationUser,IdentityRole>()
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<Context>()
     .AddDefaultUI()
     .AddDefaultTokenProviders();
@@ -39,6 +39,14 @@ builder.Services.AddScoped<IClassSession, SessionRepoService>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Account/Login"; // Ensure this path matches your custom login route
+    options.LogoutPath = "/Account/Logout";
+    options.AccessDeniedPath = "/Account/AccessDenied";
+});
+
 
 var app = builder.Build();
 
@@ -60,7 +68,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Dashboard}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
 app.MapAreaControllerRoute(
              name: "default",

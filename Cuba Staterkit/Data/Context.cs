@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Cuba_Staterkit.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace Cuba_Staterkit.Data
 {
-    public class Context : IdentityDbContext<ApplicationUser>
+    public class Context : IdentityDbContext<IdentityUser>
     {
         public Context(DbContextOptions<Context> options) : base(options)
         {
