@@ -17,10 +17,6 @@ namespace Cuba_Staterkit.Controllers
         [HttpPost]
         public ActionResult Create([FromBody] List<QuestionViewModel> questions)
         {
-            // Process the received data (questions) here
-            // Example: Saving to database, performing some action, etc.
-            // return Json(new { success = true, message = "Data received successfully." });
-
             if (ModelState.IsValid)
             {
                 // Process the received questions (e.g., save to the database)
@@ -41,86 +37,7 @@ namespace Cuba_Staterkit.Controllers
                     Question.InsertQuestion(question);
                 }
             }
-
-            return RedirectToAction("ActionName", "ControllerName");
+            return RedirectToAction("QuizForm", "Assesment");
         }
-
-
-        //[HttpPost]
-        //public IActionResult Create([FromBody] List<Question> questionsJson)
-        //{
-
-        //    if (ModelState.IsValid)
-        //    {
-        //        // Process the received questions (e.g., save to the database)
-        //        foreach (var q in questionsJson)
-        //        {
-        //            Question.InsertQuestion(q);
-        //        }
-        //    }
-
-        //    return RedirectToAction("ActionName", "ControllerName");
-        //}
-
-
-
-        //[HttpPost]
-        //public IActionResult Create([FromBody] List<Question> questionsJson)
-        //{
-        //    foreach (var question in questionsJson)
-        //    {
-        //        Console.WriteLine($"Question: Body={question.Body}, ImgUrl={question.ImgUrl}, CorrectAnswer={question.CorrectAnswer}, Answers={string.Join(",", question.Answers)}, QuizID={question.QuizID}, VersionID={question.VersionID}");
-        //    }
-
-        //    if (ModelState.IsValid)
-        //    {
-        //        // Process the received questions (e.g., save to the database)
-        //        foreach (var q in questionsJson)
-        //        {
-        //            Question.InsertQuestion(q);
-        //        }
-        //    }
-
-        //    return RedirectToAction("Asses", "ControllerName");
-        //}
-
-
-
-
-
-
-
-
-
-
-
-
-        //public IActionResult Create(List<Question> questionsJson)
-        //{
-        //    //var questions = JsonConvert.DeserializeObject<Question[]>(questionsJson);
-        //    if (ModelState.IsValid)
-        //    {
-        //        foreach (var q in questionsJson)
-        //        {
-        //            Question.InsertQuestion(q);
-        //        }
-        //    }
-
-        //    //// Convert questionsJson to a string
-        //    //string jsonString = JsonConvert.SerializeObject(questionsJson);
-        //    //Console.WriteLine(jsonString);
-        //    //// Deserialize the JSON string into an array of Question objects
-        //    //var questions = JsonConvert.DeserializeObject<Question[]>(jsonString);
-
-        //    //if (ModelState.IsValid)
-        //    //{
-        //    //    foreach (var q in questions)
-        //    //    {
-        //    //        Question.InsertQuestion(q);
-        //    //    }
-        //    //}
-
-        //    return View();
-        //}
     }
 }

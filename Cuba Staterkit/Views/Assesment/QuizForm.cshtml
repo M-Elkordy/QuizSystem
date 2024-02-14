@@ -246,87 +246,15 @@
                 contentType: 'application/json', // Data type
                 data: JSON.stringify(questionsJson), // Convert questionsJson array to JSON string
                 success: function (response) {
-                    // Handle success response
-                    console.log('Data successfully sent to server');
-                    console.log(response); // Log the response from the server
+                    // Reload the current page
+                    location.reload();
                 },
                 error: function (xhr, status, error) {
                     // Handle error
                     console.error('Error sending data to server:', error);
                 }
             });
-
-
-
-            //// Send an AJAX request to the server to create the questionsJson
-            //$.ajax({
-            //    type: "POST",
-            //    url: "/Question/Create",
-            //    data: JSON.stringify(questionsJson),
-            //    contentType: "application/json; charset=utf-8",
-            //    dataType: "json",
-            //    success: function (response) {
-            //        // Handle the success response if needed
-            //        console.log(response);
-            //    },
-            //    error: function (error) {
-            //        // Handle the error if needed
-            //        console.error(error);
-            //    }
-            //});
         });
-
-
-
-
-        //$("#submit").click(function (e) {
-        //    e.preventDefault();
-
-        //    var questionsJson = [];
-
-        //    $(".tab").each(function () {
-        //        console.log(this);
-        //        // var currentForm = $(this);
-        //        var questionData = {
-        //            Body: $(this).find(".Question").val(),
-        //            ImgUrl: $(this).find(".ImgUrl").val(),
-        //            // Mark: $(".mark").val(),
-        //            Answers: [],
-        //            CorrectAnswer: "",
-        //            QuizID: QuizId.toString(),
-        //            VersionID: ""
-        //        };
-
-        //        $(this).find(".answer").each(function () {
-        //            questionData.Answers.push($(this).val());
-        //        });
-
-        //        questionData.CorrectAnswer = $(this).find('.correct-answer').closest('.input-group').find('.answer').val();
-        //        questionData.VersionID = $("#VersionID").val();
-        //        questionsJson.push(questionData);
-        //    });
-
-        //    console.log(questionsJson);
-
-        //    // Send an AJAX request to the server to create the questionsJson
-        //    $.ajax({
-        //        type: "POST",
-        //        // traditional: true,
-        //        url: "/Question/Create",
-        //        data: JSON.stringify(questionsJson),
-        //        contentType: "application/json; charset=utf-8",
-        //        dataType: "json",
-        //        success: function (response) {
-        //            // Handle the success response if needed
-        //            console.log(response);
-        //        },
-        //        error: function (error) {
-        //            // Handle the error if needed
-        //            console.error(error);
-        //        }
-        //    });
-        //});
-
     </script>
 }
 

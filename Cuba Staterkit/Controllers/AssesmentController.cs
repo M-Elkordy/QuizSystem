@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+
 
 namespace Cuba_Staterkit.Controllers
 {
@@ -8,20 +10,12 @@ namespace Cuba_Staterkit.Controllers
         {
             return View();
         }
-        //public IActionResult QuizForm()
-        //{
-        //    Guid quizId = Guid.Empty;
-        //    quizId = (Guid)TempData["quizID"];
-        //    ViewBag.QuizId = quizId;
-        //    return View();
-        //}
 
         public IActionResult QuizForm()
         {
-            //Guid quizId = Guid.Empty;
-            //quizId = (Guid)TempData["quizID"];
-            string id = "709afaa4-4d35-459d-e608-08dc2b50845e";
-            var quizId = new Guid(id);
+            // Read the value of the cookie
+            string quizId = Request.Cookies["quizId"];
+
             ViewBag.QuizId = quizId;
             return View();
         }
