@@ -2,7 +2,10 @@
 
 <div class="page-header position-relative">
     <div class="header-wrapper row m-0">
-        
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a asp-action="Logout" class="text-black btn btn-danger" asp-controller="Account"><i class="fas fa-sign-out-alt"></i> Logout</a>
+        }
     </div>
 </div>
 

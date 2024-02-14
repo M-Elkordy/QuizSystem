@@ -5,8 +5,11 @@ namespace Cuba_Staterkit.Models
 {
     public class ApplicationUser : IdentityUser
     {
+        [Required, DataType(DataType.EmailAddress)]
+
+        public string Email { get; set; }
+
         [Required, DataType(DataType.Password)]
-        public string password { get; set; }
-        public string fullName { get; set; }
+        public string Password { get; set; }
     }
 }

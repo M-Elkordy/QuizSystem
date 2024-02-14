@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace Cuba_Staterkit.Controllers
 {
+    [Authorize]
     public class AssesmentController : Controller
     {
         public IActionResult AssesmentForm()

@@ -1,10 +1,12 @@
 ﻿using Cuba_Staterkit.Models;
 using Cuba_Staterkit.RepoServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
 namespace Cuba_Staterkit.Controllers
 {
+    [Authorize]
     public class QuizController : Controller
     {
         private readonly IQuiz Quiz;
