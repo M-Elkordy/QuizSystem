@@ -7,5 +7,6 @@
         public List<string> Answers { get; set; }
         public string CorrectAnswer { get; set; }
         public string HomeworkId { get; set; }
+        public string VersionID { get; set; }
     }
 }

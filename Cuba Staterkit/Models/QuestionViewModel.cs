@@ -2,6 +2,7 @@
 {
     public class QuestionViewModel
     {
+        public Guid ID { get; set; }
         public string Body { get; set; }
         public string ImgUrl { get; set; }
         public List<string> Answers { get; set; }

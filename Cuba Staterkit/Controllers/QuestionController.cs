@@ -19,21 +19,25 @@ namespace Cuba_Staterkit.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Generate a GUID for the first question
+                Guid firstQuestionId = Guid.NewGuid();
+
                 // Process the received questions (e.g., save to the database)
-                foreach (var q in questions)
+                for (int i = 0; i < questions.Count; i++)
                 {
                     Question question = new Question()
                     {
-                        ID = new Guid(), 
-                        Body = q.Body,
-                        ImgUrl = q.ImgUrl,
-                        Answers  = string.Join(",", q.Answers),
-                        CorrectAnswer = q.CorrectAnswer,
-                        VersionID = q.VersionID,
+                        ID = (i==0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
+                        Body = questions[i].Body,
+                        ImgUrl = questions[i].ImgUrl,
+                        Answers = string.Join(",", questions[i].Answers),
+                        CorrectAnswer = questions[i].CorrectAnswer,
                         QuestionType = Questiontype.String,
                         AnswerType = Questiontype.String,
-                        QuizID = new Guid(q.QuizID),
+                        QuizID = new Guid(questions[i].QuizID),
+                        VersionID = firstQuestionId.ToString(), // Set VersionID to the ID of the first question for all questions
                     };
+
                     Question.InsertQuestion(question);
                 }
             }
@@ -45,24 +49,29 @@ namespace Cuba_Staterkit.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Generate a GUID for the first question
+                Guid firstQuestionId = Guid.NewGuid();
+
                 // Process the received questions (e.g., save to the database)
-                foreach (var q in questions)
+                for (int i = 0; i < questions.Count; i++)
                 {
                     Question question = new Question()
                     {
-                        ID = new Guid(),
-                        Body = q.Body,
-                        ImgUrl = q.ImgUrl,
-                        Answers = string.Join(",", q.Answers),
-                        CorrectAnswer = q.CorrectAnswer,
+                        ID = (i == 0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
+                        Body = questions[i].Body,
+                        ImgUrl = questions[i].ImgUrl,
+                        Answers = string.Join(",", questions[i].Answers),
+                        CorrectAnswer = questions[i].CorrectAnswer,
                         QuestionType = Questiontype.String,
                         AnswerType = Questiontype.String,
-                        HomeWorkID = new Guid(q.HomeworkId),
+                        HomeWorkID = new Guid(questions[i].HomeworkId),
+                        VersionID = firstQuestionId.ToString(), // Set VersionID to the ID of the first question for all questions
                     };
+
                     Question.InsertQuestion(question);
                 }
             }
-            return RedirectToAction("AssesmentForm", "Assesment");
+            return RedirectToAction("CreateHomework", "HomeWork");
         }
     }
 }

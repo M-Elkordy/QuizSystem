@@ -42,8 +42,8 @@ namespace Cuba_Staterkit.Controllers
             {
                 Expires = DateTime.Now.AddDays(1)
             });
-
-            return RedirectToAction("QuizForm", "Assesment");
+            return View(quiz);
+            //return RedirectToAction("CreateQuiz", "Quiz");
         }
     }
 }
