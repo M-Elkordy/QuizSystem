@@ -34,8 +34,8 @@ namespace Cuba_Staterkit.Controllers
             {
                 IdentityUser userDbModel = new IdentityUser
                 {
-                    UserName = registerUserVM.Email,
-                    Email = registerUserVM.Email,
+                    UserName = registerUserVM.UserName,
+                    // Email = registerUserVM.Email,
                     PasswordHash = registerUserVM.Password
 
                 };
@@ -46,7 +46,7 @@ namespace Cuba_Staterkit.Controllers
                 {
                     await SignInManager.SignInAsync(userDbModel, true);
 
-                    await Context.SaveChangesAsync();
+                    // await Context.SaveChangesAsync();
 
                     return RedirectToAction("Index", "Dashboard");
 
@@ -73,7 +73,7 @@ namespace Cuba_Staterkit.Controllers
         {
             if (ModelState.IsValid)
             {
-                IdentityUser userModelfromDb = await UserManager.FindByEmailAsync(loginUserVM.Email);
+                IdentityUser userModelfromDb = await UserManager.FindByNameAsync(loginUserVM.UserName);
 
                 if (userModelfromDb != null)
                 {

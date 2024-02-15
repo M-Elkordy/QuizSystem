@@ -31,6 +31,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
 builder.Services.AddScoped<IQuiz, QuizRepoService>();
 builder.Services.AddScoped<IClassSession, SessionRepoService>();
 builder.Services.AddScoped<IQuestion, QuestionRepoService>();
+builder.Services.AddScoped<IHomeWork, HomeWorkRepoService>();
 
 // injection 
 builder.Services.AddScoped<IQuiz, QuizRepoService>();

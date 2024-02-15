@@ -23,6 +23,10 @@ namespace Cuba_Staterkit.Controllers
 
         public IActionResult HomeworkForm()
         {
+            // Read the value of the cookie
+            string homeworkId = Request.Cookies["homeworkId"];
+
+            ViewBag.HomeworkId = homeworkId;
             return View();
         }
     }

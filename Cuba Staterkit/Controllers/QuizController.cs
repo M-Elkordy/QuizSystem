@@ -21,8 +21,19 @@ namespace Cuba_Staterkit.Controllers
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
-            Session session = new Session() { ID = new Guid(), Name = classSession.SessionName};
-            _session.InsertSession(session);
+            // dealing with session in creation of quiz
+            bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
+            Session session;
+            if(sessionExists) 
+            {
+                session = _session.GetSessionByName(classSession.SessionName);
+            }  
+            else
+            {
+                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower() };
+                _session.InsertSession(session);
+            }
+
             Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID};
             Quiz.InsertQuiz(quiz);
 

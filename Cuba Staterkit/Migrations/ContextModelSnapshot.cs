@@ -78,7 +78,6 @@ namespace Cuba_Staterkit.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("VersionID")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");

@@ -5,9 +5,8 @@ namespace SmartHome_Project.ViewModels
     public class LoginUserVM
     {
         [Required]
-        [DataType(DataType.EmailAddress)]
 
-        public string Email { get; set; }
+        public string UserName { get; set; }
         [Required]
         [DataType(DataType.Password)]
 

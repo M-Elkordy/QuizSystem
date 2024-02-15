@@ -18,8 +18,7 @@ namespace Cuba_Staterkit.Models
         [Required]
         public string CorrectAnswer { get; set; }
         public double Mark { get; set; } = 1.0;
-        [Required]
-        public string VersionID { get; set; } 
+        public string? VersionID { get; set; } 
         [Required]
         public Questiontype QuestionType { get; set; }
         [Required]

@@ -107,7 +107,7 @@
 
 <div class="modal fade" id="backDropModal2" data-bs-backdrop="static" tabindex="-1">
     <div class="modal-dialog">
-        <form class="modal-content" asp-action="HomeworkForm" asp-controller="Assesment">
+        <form class="modal-content" asp-action="CreateHomework" asp-controller="HomeWork">
             <div class="modal-header">
                 <h5 class="modal-title" id="backDropModalTitle"><img width="90" height="90" src="https://img.icons8.com/bubbles/90/classroom.png" alt="classroom" /> Create Session</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -117,11 +117,11 @@
                 <div class="row g-2">
                     <div class="col mb-0">
                         <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> Session Name</label>
-                        <input type="text" id="emailBackdrop" class="form-control rounded-pill" placeholder="Example: Session 1">
+                        <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
                     </div>
                     <div class="col mb-0">
                         <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> Homework Name</label>
-                        <input type="text" id="dobBackdrop" class="form-control rounded-pill" placeholder="Example: Physics 1">
+                        <input type="text" id="dobBackdrop" name="HomeworkName" class="form-control rounded-pill" placeholder="Example: Physics 1">
                     </div>
                 </div>
             </div>

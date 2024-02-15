@@ -39,5 +39,30 @@ namespace Cuba_Staterkit.Controllers
             }
             return RedirectToAction("QuizForm", "Assesment");
         }
+
+        [HttpPost]
+        public ActionResult CreateHomework([FromBody] List<QuestionHomeworkViewModel> questions)
+        {
+            if (ModelState.IsValid)
+            {
+                // Process the received questions (e.g., save to the database)
+                foreach (var q in questions)
+                {
+                    Question question = new Question()
+                    {
+                        ID = new Guid(),
+                        Body = q.Body,
+                        ImgUrl = q.ImgUrl,
+                        Answers = string.Join(",", q.Answers),
+                        CorrectAnswer = q.CorrectAnswer,
+                        QuestionType = Questiontype.String,
+                        AnswerType = Questiontype.String,
+                        HomeWorkID = new Guid(q.HomeworkId),
+                    };
+                    Question.InsertQuestion(question);
+                }
+            }
+            return RedirectToAction("AssesmentForm", "Assesment");
+        }
     }
 }
