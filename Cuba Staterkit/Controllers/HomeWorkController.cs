@@ -39,8 +39,8 @@ namespace Cuba_Staterkit.Controllers
             {
                 Expires = DateTime.Now.AddDays(1)
             });
-            return View(homework);
-            //return RedirectToAction("HomeworkForm", "Assesment", );
+            //return View(homework);
+            return RedirectToAction("CreateHomework", "Assesment");
         }
     }
 }

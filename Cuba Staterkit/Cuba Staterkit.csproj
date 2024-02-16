@@ -9,11 +9,8 @@
 
   <ItemGroup>
     <None Include="Views\Assesment\AssesmentForm.cshtml" />
-    <None Include="Views\Assesment\HomeworkForm.cshtml" />
-    <None Include="Views\Assesment\QuizForm.cshtml" />
     <None Include="Views\Dashboard\Index.cshtml" />
     <None Include="Views\Published\Index.cshtml" />
-    <None Include="Views\Quiz\Quiz.cshtml" />
     <None Include="Views\Shared\_Footer.cshtml" />
     <None Include="Views\Shared\_Header.cshtml" />
     <None Include="Views\Shared\_Layout.cshtml" />
@@ -41,6 +38,8 @@
 
   <ItemGroup>
     <Folder Include="Areas\" />
+    <Folder Include="Views\HomeWork\" />
+    <Folder Include="Views\Quiz\" />
   </ItemGroup>
 
 </Project>

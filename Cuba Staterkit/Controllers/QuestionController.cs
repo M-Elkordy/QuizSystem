@@ -41,7 +41,7 @@ namespace Cuba_Staterkit.Controllers
                     Question.InsertQuestion(question);
                 }
             }
-            return RedirectToAction("QuizForm", "Assesment");
+            return RedirectToAction("CreateQuiz", "Assesment");
         }
 
         [HttpPost]
@@ -71,7 +71,7 @@ namespace Cuba_Staterkit.Controllers
                     Question.InsertQuestion(question);
                 }
             }
-            return RedirectToAction("CreateHomework", "HomeWork");
+            return RedirectToAction("CreateHomework", "Assesment");
         }
     }
 }

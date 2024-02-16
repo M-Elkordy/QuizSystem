@@ -12,7 +12,7 @@ namespace Cuba_Staterkit.Controllers
             return View();
         }
 
-        public IActionResult QuizForm()
+        public IActionResult CreateQuiz()
         {
             // Read the value of the cookie
             string quizId = Request.Cookies["quizId"];
@@ -20,8 +20,8 @@ namespace Cuba_Staterkit.Controllers
             ViewBag.QuizId = quizId;
             return View();
         }
-
-        public IActionResult HomeworkForm()
+        
+        public IActionResult CreateHomework()
         {
             // Read the value of the cookie
             string homeworkId = Request.Cookies["homeworkId"];

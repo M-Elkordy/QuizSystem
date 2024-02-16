@@ -18,6 +18,7 @@ namespace Cuba_Staterkit.Controllers
             _session = session;
         }
 
+
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
@@ -42,8 +43,8 @@ namespace Cuba_Staterkit.Controllers
             {
                 Expires = DateTime.Now.AddDays(1)
             });
-            return View(quiz);
-            //return RedirectToAction("CreateQuiz", "Quiz");
+            //return View(q);
+            return RedirectToAction("CreateQuiz", "Assesment");
         }
     }
 }
