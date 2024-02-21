@@ -22,29 +22,38 @@ namespace Cuba_Staterkit.Controllers
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
-            // dealing with session in creation of quiz
-            bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
-            Session session;
-            if(sessionExists) 
+            try
             {
-                session = _session.GetSessionByName(classSession.SessionName);
-            }  
-            else
-            {
-                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower() };
-                _session.InsertSession(session);
+                if(classSession.SessionName == null || classSession.QuizName == null)
+                    return RedirectToAction("AssesmentForm", "Assesment");
+                // dealing with session in creation of quiz
+                bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
+                Session session;
+                if (sessionExists)
+                {
+                    session = _session.GetSessionByName(classSession.SessionName);
+                }
+                else
+                {
+                    session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower() };
+                    _session.InsertSession(session);
+                }
+
+                Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID };
+                Quiz.InsertQuiz(quiz);
+
+                // Create a new cookie
+                Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
+                {
+                    Expires = DateTime.Now.AddDays(1)
+                });
+                //return View(q);
+                return RedirectToAction("CreateQuiz", "Assesment");
             }
-
-            Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID};
-            Quiz.InsertQuiz(quiz);
-
-            // Create a new cookie
-            Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
+            catch (Exception)
             {
-                Expires = DateTime.Now.AddDays(1)
-            });
-            //return View(q);
-            return RedirectToAction("CreateQuiz", "Assesment");
+                return RedirectToAction("AssesmentForm", "Assesment");
+            }
         }
     }
 }

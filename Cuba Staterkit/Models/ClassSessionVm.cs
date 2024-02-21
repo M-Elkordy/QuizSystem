@@ -10,8 +10,11 @@ namespace Cuba_Staterkit.Models
 {
     public class ClassSessionVm
     {
+        [Required(ErrorMessage = "Enter Quiz Name")]
         public string QuizName { get; set; }
+        [Required(ErrorMessage = "Enter Homework Name")]
         public string HomeworkName { get; set; }
+        [Required(ErrorMessage = "Enter Session Name")]
         public string SessionName { get; set;}
         public Quiz Quiz { get; set;}
         public HomeWork HomeWork { get; set;}

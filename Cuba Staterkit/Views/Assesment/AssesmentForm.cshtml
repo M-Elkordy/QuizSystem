@@ -1,4 +1,5 @@
-﻿@{
+﻿@model ClassSessionVm;
+@{
     ViewData["Title"] = "Assesment";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -88,10 +89,12 @@
                     <div class="col mb-0">
                         <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> Session Name</label>
                         <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
+                        <span asp-validation-for="SessionName" class="text-danger"></span>
                     </div>
                     <div class="col mb-0">
                         <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> Quiz Name</label>
                         <input type="text" id="dobBackdrop" name="QuizName" class="form-control rounded-pill" placeholder="Example: Physics 1">
+                        <span asp-validation-for="QuizName" class="text-danger"></span>
                     </div>
                 </div>
             </div>
@@ -118,10 +121,12 @@
                     <div class="col mb-0">
                         <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> Session Name</label>
                         <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
+                        <span asp-validation-for="SessionName" class="text-danger"></span>
                     </div>
                     <div class="col mb-0">
                         <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> Homework Name</label>
                         <input type="text" id="dobBackdrop" name="HomeworkName" class="form-control rounded-pill" placeholder="Example: Physics 1">
+                        <span asp-validation-for="HomeworkName" class="text-danger"></span>
                     </div>
                 </div>
             </div>
