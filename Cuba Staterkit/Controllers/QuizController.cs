@@ -2,6 +2,7 @@
 using Cuba_Staterkit.RepoServices;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using NToastNotify;
 using System.Net;
 
 namespace Cuba_Staterkit.Controllers
@@ -11,49 +12,49 @@ namespace Cuba_Staterkit.Controllers
     {
         private readonly IQuiz Quiz;
         private readonly IClassSession _session;
+        private readonly IToastNotification toastNotification;
 
-        public QuizController(IQuiz quiz, IClassSession session)
+
+        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification)
         {
             Quiz = quiz;
             _session = session;
+            toastNotification = _toastNotification;
         }
 
+        [HttpGet]
+        public IActionResult AllQuizes()
+        {
+            List<Quiz> Quizes = Quiz.GetAll();
+
+            return View(Quizes);
+        }
 
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
-            try
+            bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
+            Session session;
+            if(sessionExists) 
             {
-                if(classSession.SessionName == null || classSession.QuizName == null)
-                    return RedirectToAction("AssesmentForm", "Assesment");
-                // dealing with session in creation of quiz
-                bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
-                Session session;
-                if (sessionExists)
-                {
-                    session = _session.GetSessionByName(classSession.SessionName);
-                }
-                else
-                {
-                    session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower() };
-                    _session.InsertSession(session);
-                }
+                session = _session.GetSessionByName(classSession.SessionName);
+            }  
+            else
+            {
+                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower()};
+                _session.InsertSession(session);
+            }
 
                 Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID };
                 Quiz.InsertQuiz(quiz);
 
-                // Create a new cookie
-                Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
-                {
-                    Expires = DateTime.Now.AddDays(1)
-                });
-                //return View(q);
-                return RedirectToAction("CreateQuiz", "Assesment");
-            }
-            catch (Exception)
+            // Create a new cookie
+            Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
             {
-                return RedirectToAction("AssesmentForm", "Assesment");
-            }
+                Expires = DateTime.Now.AddDays(1)
+            });
+            //return View(q);
+            return RedirectToAction("CreateQuiz", "Assesment");
         }
     }
 }

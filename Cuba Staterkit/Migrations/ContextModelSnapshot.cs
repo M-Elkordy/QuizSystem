@@ -37,7 +37,9 @@ namespace Cuba_Staterkit.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SessionID");
+                    b.HasIndex("SessionID")
+                        .IsUnique()
+                        .HasFilter("[SessionID] IS NOT NULL");
 
                     b.ToTable("HomeWorks");
                 });
@@ -78,6 +80,7 @@ namespace Cuba_Staterkit.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("VersionID")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");
@@ -104,7 +107,9 @@ namespace Cuba_Staterkit.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SessionID");
+                    b.HasIndex("SessionID")
+                        .IsUnique()
+                        .HasFilter("[SessionID] IS NOT NULL");
 
                     b.ToTable("Quizes");
                 });
@@ -114,6 +119,9 @@ namespace Cuba_Staterkit.Migrations
                     b.Property<Guid>("ID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -345,8 +353,8 @@ namespace Cuba_Staterkit.Migrations
             modelBuilder.Entity("Cuba_Staterkit.Models.HomeWork", b =>
                 {
                     b.HasOne("Cuba_Staterkit.Models.Session", "Session")
-                        .WithMany()
-                        .HasForeignKey("SessionID");
+                        .WithOne("homework")
+                        .HasForeignKey("Cuba_Staterkit.Models.HomeWork", "SessionID");
 
                     b.Navigation("Session");
                 });
@@ -369,8 +377,8 @@ namespace Cuba_Staterkit.Migrations
             modelBuilder.Entity("Cuba_Staterkit.Models.Quiz", b =>
                 {
                     b.HasOne("Cuba_Staterkit.Models.Session", "Session")
-                        .WithMany()
-                        .HasForeignKey("SessionID");
+                        .WithOne("quiz")
+                        .HasForeignKey("Cuba_Staterkit.Models.Quiz", "SessionID");
 
                     b.Navigation("Session");
                 });
@@ -443,6 +451,13 @@ namespace Cuba_Staterkit.Migrations
             modelBuilder.Entity("Cuba_Staterkit.Models.Quiz", b =>
                 {
                     b.Navigation("Questions");
+                });
+
+            modelBuilder.Entity("Cuba_Staterkit.Models.Session", b =>
+                {
+                    b.Navigation("homework");
+
+                    b.Navigation("quiz");
                 });
 
             modelBuilder.Entity("Cuba_Staterkit.Models.Subject", b =>

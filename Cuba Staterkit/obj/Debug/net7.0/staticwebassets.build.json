@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oWFNjFcYnwWesMv1ctlPP34NtfRrqBdnlZRLO7Tc3LM=",
+  "Hash": "+1qNFdbbW3qoPjUkxp2/0sWEaISQo4y1YXSLjFyTCaA=",
   "Source": "Cuba Staterkit",
   "BasePath": "_content/Cuba Staterkit",
   "Mode": "Default",
@@ -1035,6 +1035,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kordy\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\noty.js",
+      "SourceId": "NToastNotify",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\",
+      "BasePath": "_content/NToastNotify",
+      "RelativePath": "noty.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\noty.js"
+    },
+    {
+      "Identity": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\toastr.js",
+      "SourceId": "NToastNotify",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\",
+      "BasePath": "_content/NToastNotify",
+      "RelativePath": "toastr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kordy\\.nuget\\packages\\ntoastnotify\\7.0.0\\staticwebassets\\toastr.js"
     },
     {
       "Identity": "D:\\Quiz system\\Cuba Staterkit\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Cuba Staterkit.styles.css",

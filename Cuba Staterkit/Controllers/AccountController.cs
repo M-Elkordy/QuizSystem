@@ -3,6 +3,7 @@ using Cuba_Staterkit.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using NToastNotify;
 using SmartHome_Project.ViewModels;
 
 namespace Cuba_Staterkit.Controllers
@@ -12,13 +13,18 @@ namespace Cuba_Staterkit.Controllers
         public SignInManager<IdentityUser> SignInManager { get; }
         public UserManager<IdentityUser> UserManager { get; }
 
+        private readonly IToastNotification toastNotification;
+
+
         private readonly Context Context;
 
-        public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager, Context _context)
+        public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager, Context _context, IToastNotification _toastNotification)
         {
             UserManager = userManager;
             SignInManager = signInManager;
             Context = _context;
+            toastNotification = _toastNotification;
+
         }
 
         [HttpGet]
@@ -47,6 +53,7 @@ namespace Cuba_Staterkit.Controllers
                     await SignInManager.SignInAsync(userDbModel, true);
 
                     // await Context.SaveChangesAsync();
+                    toastNotification.AddSuccessToastMessage("Welcome" +" "+  userDbModel.UserName + "!");
 
                     return RedirectToAction("Index", "Dashboard");
 
@@ -82,6 +89,7 @@ namespace Cuba_Staterkit.Controllers
                     if (exist)
                     {
                         await SignInManager.SignInAsync(userModelfromDb, loginUserVM.RememberMe);
+                        toastNotification.AddSuccessToastMessage("Welcome back" + " " + userModelfromDb.UserName + " !");
                         return RedirectToAction("Index", "Dashboard");
                     }
                 }

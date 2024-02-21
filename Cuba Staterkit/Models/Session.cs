@@ -10,8 +10,14 @@ namespace Cuba_Staterkit.Models
         public Guid ID { get; set; }
         [Required]
         public string Name { get; set; }
+        //public DateTime CreatedAt { get; set; }
+
         [ForeignKey(nameof(Subject))]
         public Guid? SubjectID { get; set; }
         public virtual Subject? Subject { get; set; }
+        public virtual Quiz? quiz { get; set; }
+        public virtual HomeWork? homework { get; set; }
+
+
     }
 }

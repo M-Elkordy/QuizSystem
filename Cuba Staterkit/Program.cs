@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Cuba_Staterkit.RepoServices;
 using Microsoft.Extensions.DependencyInjection;
 using Cuba_Staterkit.Models;
+using NToastNotify;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +21,14 @@ builder.Services.AddDbContext<Context>(options =>
     loggerFactory.AddProvider(new DebugLoggerProvider());
 
     options.UseSqlServer(connectionString);
+});
+
+builder.Services.AddMvc().AddNToastNotifyToastr(new ToastrOptions()
+{
+    ProgressBar = true,
+    PositionClass = ToastPositions.TopRight,
+    PreventDuplicates = true,
+    CloseButton=true
 });
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()

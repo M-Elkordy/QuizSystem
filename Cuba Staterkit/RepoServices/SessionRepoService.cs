@@ -1,5 +1,6 @@
 ﻿using Cuba_Staterkit.Data;
 using Cuba_Staterkit.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Cuba_Staterkit.RepoServices
 {
@@ -13,7 +14,7 @@ namespace Cuba_Staterkit.RepoServices
   
         public List<Session> GetAll()
         {
-            throw new NotImplementedException();
+            return(Context.Sessions.Include(q=>q.quiz).ToList());
         }
         public Session GetSessionById(int id)
         {

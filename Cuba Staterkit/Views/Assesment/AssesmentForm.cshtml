@@ -5,6 +5,8 @@
 }
 <div class="page-body">
     <div class="container-fluid">
+
+
         <div class="page-title" style="margin-top: -29px !important;">
             <div class="row">
                 <div class="col-6">
@@ -37,14 +39,14 @@
                     <div class="card-body pt-2 ">
                         <div class="row align-items-center">
                             <div class="col">
-                                <h5 class="card-title">Add Quiz </h5>
+                                <h5 class="card-title">Quizes </h5>
                                 <p class="card-text">
                                     Create your Own Quiz's
                                 </p>
-                                <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#backDropModal"><i class="fas fa-plus-circle me-1"></i> Create</a>
+                                <a class="btn btn-primary" asp-controller="Quiz" asp-action="AllQuizes"><i class="fas fa-folder-open me-1"></i> Open</a>
                             </div>
                             <div class="col">
-                                <img class="card-img card-img-right" src="~/assets/images/dashboard/111.png" />
+                                <img class="card-img card-img-right" src="~/assets/images/dashboard/222.png" />
                             </div>
                         </div>
                     </div>
@@ -55,14 +57,14 @@
                     <div class="card-body pt-2">
                         <div class="row align-items-center">
                             <div class="col">
-                                <h5 class="card-title">Add Homework </h5>
+                                <h5 class="card-title">Homeworks </h5>
                                 <p class="card-text">
                                     Create your Own Homework's
                                 </p>
-                                <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#backDropModal2"><i class="fas fa-plus-circle me-1"></i> Create</a>
+                                <a class="btn btn-primary" asp-controller="HomeWork" asp-action="AllHomeworks"><i class="fas fa-folder-open me-1"></i> Open</a>
                             </div>
                             <div class="col">
-                                <img class="card-img card-img-right" src="~/assets/images/dashboard/222.png" />
+                                <img class="card-img card-img-right" src="~/assets/images/dashboard/111.png" />
                             </div>
                         </div>
                     </div>
@@ -86,29 +88,30 @@
             <div class="modal-body">
 
                 <div class="row g-2">
-                    <div class="col mb-0">
-                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> Session Name</label>
+                    <div class="col mb-2">
+                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> <strong>Session Name</strong></label>
                         <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
                         <span asp-validation-for="SessionName" class="text-danger"></span>
                     </div>
-                    <div class="col mb-0">
-                        <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> Quiz Name</label>
-                        <input type="text" id="dobBackdrop" name="QuizName" class="form-control rounded-pill" placeholder="Example: Physics 1">
-                        <span asp-validation-for="QuizName" class="text-danger"></span>
+                </div>
+                <div class="row g-2">
+                    <div class="col mb-2">
+                        <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> <strong>Quiz Name</strong></label>
+                        <input type="text" id="dobBackdrop" name="QuizName" class="form-control rounded-pill" placeholder="Example: Quiz 1">
                     </div>
                 </div>
+               
+
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary rounded-pill" data-bs-dismiss="modal">Close</button>
                 <button type="submit" class="btn btn-primary rounded-pill">Save</button>
             </div>
-
-
         </form>
     </div>
 </div>
 
-<div class="modal fade" id="backDropModal2" data-bs-backdrop="static" tabindex="-1">
+@*<div class="modal fade" id="backDropModal2" data-bs-backdrop="static" tabindex="-1">
     <div class="modal-dialog">
         <form class="modal-content" asp-action="CreateHomework" asp-controller="HomeWork">
             <div class="modal-header">
@@ -118,17 +121,17 @@
             <div class="modal-body">
 
                 <div class="row g-2">
-                    <div class="col mb-0">
-                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> Session Name</label>
+                    <div class="col mb-2">
+                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> <strong>Session Name</strong></label>
                         <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
                         <span asp-validation-for="SessionName" class="text-danger"></span>
                     </div>
                     <div class="col mb-0">
                         <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> Homework Name</label>
                         <input type="text" id="dobBackdrop" name="HomeworkName" class="form-control rounded-pill" placeholder="Example: Physics 1">
-                        <span asp-validation-for="HomeworkName" class="text-danger"></span>
                     </div>
                 </div>
+               
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary rounded-pill" data-bs-dismiss="modal">Close</button>
@@ -136,4 +139,4 @@
             </div>
         </form>
     </div>
-</div>
+</div>*@
