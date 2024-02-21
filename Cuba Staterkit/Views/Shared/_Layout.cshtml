@@ -18,5 +18,6 @@
     </div>
     <partial name="_Script" />
     @RenderSection("Script",false)
+    @await Component.InvokeAsync("NToastNotify")
 </body>
 </html>

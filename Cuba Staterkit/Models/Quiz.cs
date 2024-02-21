@@ -11,7 +11,7 @@ namespace Cuba_Staterkit.Models
         public string Name { get; set; }
         [ForeignKey(nameof(Session))]
         public Guid? SessionID { get; set; }
-        public virtual Session? Session{ get; set; }
+        public virtual Session? Session { get; set; }
         public virtual IEnumerable<Question>? Questions { get; set; }
 
     }

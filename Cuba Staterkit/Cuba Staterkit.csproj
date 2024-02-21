@@ -8,12 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\HomeWork\**" />
+    <Content Remove="Views\HomeWork\**" />
+    <EmbeddedResource Remove="Views\HomeWork\**" />
+    <None Remove="Views\HomeWork\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="Views\Assesment\AssesmentForm.cshtml" />
-    <None Include="Views\Assesment\HomeworkForm.cshtml" />
-    <None Include="Views\Assesment\QuizForm.cshtml" />
     <None Include="Views\Dashboard\Index.cshtml" />
-    <None Include="Views\Published\Index.cshtml" />
-    <None Include="Views\Quiz\Quiz.cshtml" />
+    <None Include="Views\Published\GetAllZ.cshtml" />
     <None Include="Views\Shared\_Footer.cshtml" />
     <None Include="Views\Shared\_Header.cshtml" />
     <None Include="Views\Shared\_Layout.cshtml" />
@@ -36,6 +40,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.11" />
+    <PackageReference Include="NToastNotify" Version="7.0.0" />
     <PackageReference Include="RestSharp" Version="110.2.0" />
   </ItemGroup>
 

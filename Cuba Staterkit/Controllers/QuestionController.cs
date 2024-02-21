@@ -2,6 +2,7 @@
 using Cuba_Staterkit.RepoServices;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using NToastNotify;
 using System.Text.Json.Nodes;
 
 namespace Cuba_Staterkit.Controllers
@@ -9,9 +10,11 @@ namespace Cuba_Staterkit.Controllers
     public class QuestionController : Controller
     {
         private readonly IQuestion Question;
-        public QuestionController(IQuestion question)
+        private readonly IToastNotification toastNotification;
+        public QuestionController(IQuestion question, IToastNotification _toastNotification)
         {
             Question = question;
+            toastNotification = _toastNotification;
         }
 
         [HttpPost]
@@ -40,8 +43,10 @@ namespace Cuba_Staterkit.Controllers
 
                     Question.InsertQuestion(question);
                 }
+
             }
-            return RedirectToAction("QuizForm", "Assesment");
+            toastNotification.AddSuccessToastMessage("Questions Added Successfully");
+            return RedirectToAction("CreateQuiz", "Assesment");
         }
 
         [HttpPost]
@@ -71,7 +76,7 @@ namespace Cuba_Staterkit.Controllers
                     Question.InsertQuestion(question);
                 }
             }
-            return RedirectToAction("CreateHomework", "HomeWork");
+            return RedirectToAction("CreateHomework", "Assesment");
         }
     }
 }
