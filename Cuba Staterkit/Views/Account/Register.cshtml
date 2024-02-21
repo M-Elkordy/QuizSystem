@@ -13,6 +13,8 @@
                 </div>
                 <div class="login-main">
                     <form class="theme-form" asp-action="Register" asp-controller="Account">
+                        <div asp-validation-summary="All" class="text-danger mb-2"></div>
+
                         <h4>Sign Up to your account</h4>
                         <div class="form-group mt-4">
                             <label asp-for="UserName" class="float-start mb-2"></label>

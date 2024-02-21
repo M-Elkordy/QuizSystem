@@ -2,6 +2,7 @@
 using Cuba_Staterkit.RepoServices;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using NToastNotify;
 using System.Net;
 
 namespace Cuba_Staterkit.Controllers
@@ -11,18 +12,27 @@ namespace Cuba_Staterkit.Controllers
     {
         private readonly IQuiz Quiz;
         private readonly IClassSession _session;
+        private readonly IToastNotification toastNotification;
 
-        public QuizController(IQuiz quiz, IClassSession session)
+
+        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification)
         {
             Quiz = quiz;
             _session = session;
+            toastNotification = _toastNotification;
         }
 
+        [HttpGet]
+        public IActionResult AllQuizes()
+        {
+            List<Quiz> Quizes = Quiz.GetAll();
+
+            return View(Quizes);
+        }
 
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
-            // dealing with session in creation of quiz
             bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
             Session session;
             if(sessionExists) 
@@ -31,7 +41,7 @@ namespace Cuba_Staterkit.Controllers
             }  
             else
             {
-                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower() };
+                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower(),CreatedAt = DateTime.Now };
                 _session.InsertSession(session);
             }
 
@@ -44,7 +54,8 @@ namespace Cuba_Staterkit.Controllers
                 Expires = DateTime.Now.AddDays(1)
             });
             //return View(q);
-            return RedirectToAction("CreateQuiz", "Assesment");
+            toastNotification.AddSuccessToastMessage("Session & Quiz Created ");
+            return RedirectToAction("AllQuizes", "Quiz");
         }
     }
 }

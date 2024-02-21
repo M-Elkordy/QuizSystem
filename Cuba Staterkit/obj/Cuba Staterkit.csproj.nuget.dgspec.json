@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
+    "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
   },
   "projects": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {
+    "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
         "projectName": "Cuba Staterkit",
-        "projectPath": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
-        "packagesPath": "C:\\Users\\kordy\\.nuget\\packages\\",
-        "outputPath": "D:\\Quiz system\\Cuba Staterkit\\obj\\",
+        "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "D:\\Work\\New Project\\env\\bin\\Debug": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,6 +67,10 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
+            "NToastNotify": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[110.2.0, )"
@@ -92,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
