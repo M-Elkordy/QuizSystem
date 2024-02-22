@@ -8,13 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Views\HomeWork\**" />
-    <Content Remove="Views\HomeWork\**" />
-    <EmbeddedResource Remove="Views\HomeWork\**" />
-    <None Remove="Views\HomeWork\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="Views\Assesment\AssesmentForm.cshtml" />
     <None Include="Views\Dashboard\Index.cshtml" />
     <None Include="Views\Published\GetAllZ.cshtml" />

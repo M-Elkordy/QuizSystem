@@ -45,8 +45,8 @@ namespace Cuba_Staterkit.Controllers
                 _session.InsertSession(session);
             }
 
-                Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID };
-                Quiz.InsertQuiz(quiz);
+            Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID };
+            Quiz.InsertQuiz(quiz);
 
             // Create a new cookie
             Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
@@ -54,7 +54,7 @@ namespace Cuba_Staterkit.Controllers
                 Expires = DateTime.Now.AddDays(1)
             });
             //return View(q);
-            return RedirectToAction("CreateQuiz", "Assesment");
+            return RedirectToAction("AllQuizes", "Quiz");
         }
     }
 }

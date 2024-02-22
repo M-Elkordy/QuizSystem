@@ -1,5 +1,6 @@
 ﻿using Cuba_Staterkit.Data;
 using Cuba_Staterkit.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Cuba_Staterkit.RepoServices
 {
@@ -12,7 +13,7 @@ namespace Cuba_Staterkit.RepoServices
         }
         public List<HomeWork> GetAll()
         {
-            throw new NotImplementedException();
+            return Context.HomeWorks.Include(h => h.Session).ToList();
         }
 
         public HomeWork GetHomeWorkById(int id)

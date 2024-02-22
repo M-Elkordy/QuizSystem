@@ -13,7 +13,7 @@ namespace Cuba_Staterkit.RepoServices
         }
         public List<Quiz> GetAll()
         {
-            return Context.Quizes.Include(S=>S.Session).ToList();
+            return Context.Quizes.Include(q => q.Session).ToList();
         }
 
         public Quiz GetQuiznById(int id)

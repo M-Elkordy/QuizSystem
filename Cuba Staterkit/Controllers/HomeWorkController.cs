@@ -15,6 +15,14 @@ namespace Cuba_Staterkit.Controllers
             _session = session;
         }
 
+        [HttpGet]
+        public IActionResult AllHomeworks()
+        {
+            List<HomeWork> homeWorks = _homework.GetAll();
+
+            return View(homeWorks);
+        }
+
         [HttpPost]
         public IActionResult CreateHomework(ClassSessionVm classSession)
         {
@@ -40,7 +48,7 @@ namespace Cuba_Staterkit.Controllers
                 Expires = DateTime.Now.AddDays(1)
             });
             //return View(homework);
-            return RedirectToAction("CreateHomework", "Assesment");
+            return RedirectToAction("AllHomeworks", "HomeWork");
         }
     }
 }
