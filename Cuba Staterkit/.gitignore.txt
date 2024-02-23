@@ -1,12 +1,2 @@
-﻿# Ignore compiled files
-*.class
-*.jar
-
-# Ignore log files
-*.log
-
-# Ignore build directories
-target/
-bin/
-# Ignore Visual Studio folder
+﻿# Ignore Visual Studio folder
 .vs/
