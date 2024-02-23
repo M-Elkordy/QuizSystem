@@ -1,4 +1,4 @@
-﻿@model Quiz;
+﻿@model Guid;
 
 @{
     ViewData["Title"] = "QuizForm";
@@ -58,11 +58,11 @@
                                 <div class="col-sm-12 col-xl-12">
                                     <div class="card card-absolute  border border-secondary">
                                         <div class="card-header bg-primary" style="top: -46px;">
-                                            <h4 class="text-white">Main Question </h4>
+                                            <h4 class="text-white">Main Question @Model.ToString()</h4>
                                         </div>
                                         <div class="card-body align-items-center justify-content-center tab">
                                             <div class="widget-content">
-                                                <input type="hidden" name="quizId" value="@ViewBag.QuizId" /> @*id of the quiz*@
+                                                <input type="hidden" name="quizId" value="@Model" /> @*id of the quiz*@
                                                 <div class="row">
                                                     <div class="mb-3">
                                                         <label for="Question"><strong>Question Body :</strong></label>
@@ -216,7 +216,7 @@
             $(this).closest(".d-flex").remove();
         });
 
-        var QuizId = @Html.Raw(Json.Serialize(ViewBag.QuizId));
+        var QuizId = @Html.Raw(Json.Serialize(Model));
 
         $("#submit").click(function (e) {
             e.preventDefault();

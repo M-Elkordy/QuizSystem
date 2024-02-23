@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Cuba_Staterkit.Models.Quiz>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
-<div class="page-body">
-    
+<div class="page-body">   
     <div class="container-fluid">
         <div class="page-title" style="margin-top: -29px !important;">
             <div class="row">
@@ -21,14 +21,14 @@
                     <div class="widget-content">
 
                         <div class="row">
-                            @if(Model.Count() > 0)
+                            @if (Model.Any())
                             {
-                                foreach (var Quiz in Model)
+                                @foreach (var Quiz in Model.OrderBy(S => S.Session.SessionNumber))
                                 {
                                     <div class="col-sm-12 col-xl-4">
                                         <div class="card card-absolute widget-hover border border-secondary" style="transition: 1s;">
-                                            <div class="card-header bg-primary rounded-pill">
-                                                <h5 class="text-white">@Quiz.Session.Name </h5>
+                                            <div class="card-header bg-primary">
+                                                <h5 class="text-white"><span>Session : </span>@Quiz.Session.SessionNumber </h5>
                                             </div>
                                             <div class="card-body align-items-center justify-content-center text-center">
                                                 <div class="widget-content">
@@ -36,17 +36,25 @@
                                                         <h5>Quiz Name : <span class="badge rounded-pill badge-light-warning">@Quiz.Name</span> </h5>
                                                     </div>
                                                     <div class="mt-3">
-                                                        <div class="whatsnew-btn"><a class="btn btn-warning rounded-pill">Edit</a></div>
+                                                        <div class="whatsnew-btn">
+                                                            <a class="btn btn-warning rounded-pill" asp-action="Edit" asp-route-id=@Quiz.Id>Edit</a>
+                                                            <a class="btn btn-danger rounded-pill delete-btn" data-quizid="@Quiz.Session.SessionNumber" data-sessionid="@Quiz.SessionID"><strong>X</strong></a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 }
-                            } 
+                                
+                            }
                             else
                             {
-                                <h1>No Quizes Created Yet</h1>
+                                <div class="card mb-5 w-75 mx-auto d-flex justify-content-center align-items-center border border-secondary rounded-pill" id="no-quizzes-placeholder">
+                                    <div class="row g-0 text-center">
+                                        <h2 class="mb-0"><img width="70" height="70" src="https://img.icons8.com/fluency/70/cancel.png" alt="cancel" /> No published Quizes</h2>
+                                    </div>
+                                </div>
                             }
                         </div>
                     </div>
@@ -57,34 +65,35 @@
     </div>
 </div>
 
-
 <div class="modal fade" id="backDropModal2" data-bs-backdrop="static" tabindex="-1">
     <div class="modal-dialog">
-        <form class="modal-content" asp-action="CreateQuiz" asp-controller="Quiz">
+        <form class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="backDropModalTitle"><img width="90" height="90" src="https://img.icons8.com/bubbles/90/classroom.png" alt="classroom" /> Create Quiz</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
 
+                <div id="sessionExistsError" class="text-danger mb-3"></div>
+
                 <div class="row g-2">
                     <div class="col mb-2">
-                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> <strong>Session Name</strong></label>
-                        <input type="text" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: Session 1">
+                        <label for="emailBackdrop" class="form-label"><i class="fas fa-sort-numeric-up-alt"></i> <strong>Session Number</strong></label>
+                        <input type="number" id="emailBackdrop" name="SessionName" class="form-control rounded-pill" placeholder="Example: 1" data-input-name="SessionNumber">
                     </div>
                 </div>
 
                 <div class="row g-2">
                     <div class="col mb-2">
                         <label for="dobBackdrop" class="form-label"><i class="fas fa-signature"></i> <strong>Quiz Name</strong></label>
-                        <input type="text" id="dobBackdrop" name="QuizName" class="form-control rounded-pill" placeholder="Example: Quiz 1">
+                        <input type="text" id="dobBackdrop" name="QuizName" class="form-control rounded-pill" placeholder="Example: Quiz 1" data-input-name="QuizName">
                     </div>
                 </div>
 
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary rounded-pill" data-bs-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary rounded-pill">Save</button>
+                <button type="submit" id="submit" class="btn btn-primary rounded-pill">Save</button>
             </div>
         </form>
     </div>
@@ -93,3 +102,68 @@
 
 
 
+<script>
+
+    $(document).on("click", ".delete-btn", function (e) {
+        e.preventDefault();
+
+        var sessionId = $(this).data("sessionid");
+
+        $.ajax({
+            url: "/Quiz/DeleteQuiz",
+            type: "POST",
+            data: { id: sessionId },
+            success: function (response) {
+               
+
+                var deletedCard = $(`[data-sessionid="${sessionId}"]`).closest('.col-sm-12');
+                deletedCard.fadeOut('slow', function () {
+                    deletedCard.remove();
+
+                    var remainingCards = $('.col-sm-12').length -1;
+                    console.log("Remaing Cards are :"+remainingCards);
+
+                    if (remainingCards === 0) {
+                        location.reload();
+                    }
+                });
+            },
+            //error: function (error) {
+              //  console.error(error);
+            //}
+        });
+    });
+
+
+
+    $("#submit").click(function (e) {
+        e.preventDefault();
+
+        var formData = {
+            SessionNumber: $("#emailBackdrop").val(),
+            QuizName: $("#dobBackdrop").val(),
+        };
+        $.ajax({
+            url: "/Quiz/CreateQuiz",
+            type: "POST",
+            data: formData,
+            success: function (response) {
+                console.log(response);
+                console.log(formData);
+
+                if (response.sessionExists) {
+                    // Session already exists, show error message in the modal
+                    $("#sessionExistsError").text("Session already exists. Please choose a different session number.");
+                } else {
+                    // Session doesn't exist, close modal and reload
+                    $("#backDropModal2").modal("hide");
+                    location.reload();
+                }
+            },
+            error: function (error) {
+                console.error(error);
+            }
+        });
+    });
+
+</script>

@@ -12,13 +12,13 @@ namespace Cuba_Staterkit.Controllers
             return View();
         }
 
-        public IActionResult CreateQuiz()
+        public IActionResult CreateQuiz(Guid id)
         {
             // Read the value of the cookie
-            string quizId = Request.Cookies["quizId"];
+            // string quizId = Request.Cookies["quizId"];
 
-            ViewBag.QuizId = quizId;
-            return View();
+            // ViewBag.QuizId = id;
+            return View(id);
         }
         
         public IActionResult CreateHomework()

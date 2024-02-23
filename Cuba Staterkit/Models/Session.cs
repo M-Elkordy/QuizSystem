@@ -10,6 +10,7 @@ namespace Cuba_Staterkit.Models
         public Guid ID { get; set; }
         [Required]
         public string Name { get; set; }
+        public int SessionNumber { get; set; }
         //public DateTime CreatedAt { get; set; }
 
         [ForeignKey(nameof(Subject))]

@@ -14,16 +14,21 @@ namespace Cuba_Staterkit.RepoServices
   
         public List<Session> GetAll()
         {
-            return(Context.Sessions.Include(q=>q.quiz).ToList());
+            return Context.Sessions.Include(q => q.quiz).ToList();
         }
         public Session GetSessionById(int id)
         {
             throw new NotImplementedException();
         }
-        public bool SessionExists(string name)
+        public bool SessionExists(int Id)
         {
-            Session? session = GetSessionByName(name);
+            Session? session = GetSessionByNumber(Id);
             return session != null ? true : false;
+        }
+        public Session GetSessionByNumber(int Id)
+        {
+            Session? session = Context.Sessions.FirstOrDefault(s => s.SessionNumber == Id);
+            return session;
         }
         public Session? GetSessionByName(string name)
         {
@@ -37,9 +42,24 @@ namespace Cuba_Staterkit.RepoServices
         }
         public void UpdateSession(int id, Session session)
         {
+
         }
-        public void DeleteSession(int id)
+        public void DeleteSession(Guid Id)
         {
+            Session sessionToDelete = Context.Sessions.Find(Id);
+            if (sessionToDelete != null)
+            {
+                Context.Sessions.Remove(sessionToDelete);
+                Context.SaveChanges();
+            }
+
         }
+
+
+
+
+
+
+
     }
 }

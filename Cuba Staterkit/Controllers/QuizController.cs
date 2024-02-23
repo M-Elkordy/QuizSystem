@@ -33,28 +33,47 @@ namespace Cuba_Staterkit.Controllers
         [HttpPost]
         public IActionResult CreateQuiz(ClassSessionVm classSession)
         {
-            bool sessionExists = _session.SessionExists(classSession.SessionName.ToLower());
-            Session session;
-            if(sessionExists) 
+            bool sessionExists = _session.SessionExists(classSession.SessionNumber);
+
+            if (sessionExists)
             {
-                session = _session.GetSessionByName(classSession.SessionName);
+                // Session already exists, return JSON response
+                return Json(new { sessionExists = true });
+            }
+            else
+            {
+                Session session = new Session() { ID = Guid.NewGuid(), Name = "Default", SessionNumber = classSession.SessionNumber };
+                _session.InsertSession(session);
+
+                Quiz quiz = new Quiz() { Id = Guid.NewGuid(), Name = classSession.QuizName, SessionID = session.ID };
+                Quiz.InsertQuiz(quiz);
+
+                //Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
+                //{
+                //    Expires = DateTime.Now.AddDays(1)
+                //});
+                toastNotification.AddSuccessToastMessage("Session / Quiz Added");
+
+                // Session doesn't exist, return JSON response
+                return Json(new { sessionExists = false });
+            }
+        }
+
+        public IActionResult Edit(Guid id)
+        {
+            bool questionsExists = Quiz.QuizExist(id);
+            if(questionsExists)
+            {
+                return View("");
             }  
             else
             {
-                session = new Session() { ID = new Guid(), Name = classSession.SessionName.ToLower()};
-                _session.InsertSession(session);
+                return RedirectToAction("CreateQuiz", "Assesment", new {id = id});
             }
-
-            Quiz quiz = new Quiz() { Id = new Guid(), Name = classSession.QuizName, SessionID = session.ID };
-            Quiz.InsertQuiz(quiz);
-
-            // Create a new cookie
-            Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
-            {
-                Expires = DateTime.Now.AddDays(1)
-            });
-            //return View(q);
-            return RedirectToAction("AllQuizes", "Quiz");
+        }
+        public void DeleteQuiz(Guid Id)
+        {
+            _session.DeleteSession(Id);
         }
     }
 }

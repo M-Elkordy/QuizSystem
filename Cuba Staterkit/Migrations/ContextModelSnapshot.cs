@@ -120,12 +120,12 @@ namespace Cuba_Staterkit.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("SessionNumber")
+                        .HasColumnType("int");
 
                     b.Property<Guid?>("SubjectID")
                         .HasColumnType("uniqueidentifier");
