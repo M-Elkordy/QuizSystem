@@ -16,7 +16,7 @@ namespace Cuba_Staterkit.Controllers
         {
             // Read the value of the cookie
             // string quizId = Request.Cookies["quizId"];
-
+            //Hello
             // ViewBag.QuizId = id;
             return View(id);
         }
