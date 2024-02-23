@@ -1,2 +1,8 @@
-﻿# Ignore Visual Studio folder
+﻿.vscode/
 .vs/
+*.suo
+*.user
+*.sln.docstates
+bin/
+obj/
+*.vs/
