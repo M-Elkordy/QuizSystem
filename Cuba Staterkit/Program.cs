@@ -58,6 +58,10 @@ builder.Services.ConfigureApplicationCookie(options =>
 });
 
 
+//Run time Compilation
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

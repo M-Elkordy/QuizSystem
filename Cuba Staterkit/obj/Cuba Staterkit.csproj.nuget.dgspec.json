@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
+    "C:\\Users\\ehabashraf\\source\\repos\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
   },
   "projects": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {
+    "C:\\Users\\ehabashraf\\source\\repos\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "projectUniqueName": "C:\\Users\\ehabashraf\\source\\repos\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
         "projectName": "Cuba Staterkit",
-        "projectPath": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
-        "packagesPath": "C:\\Users\\kordy\\.nuget\\packages\\",
-        "outputPath": "D:\\Quiz system\\Cuba Staterkit\\obj\\",
+        "projectPath": "C:\\Users\\ehabashraf\\source\\repos\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "packagesPath": "C:\\Users\\ehabashraf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ehabashraf\\source\\repos\\QuizSystem\\Cuba Staterkit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ehabashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "D:\\Work\\New Project\\env\\bin\\Debug": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,6 +54,10 @@
               "version": "[7.0.15, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[7.0.15, )"
             },
@@ -96,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

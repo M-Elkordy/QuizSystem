@@ -5,7 +5,7 @@ namespace Cuba_Staterkit.RepoServices
     public interface IQuiz
     {
         public List<Quiz> GetAll();
-        public Quiz GetQuiznById(int id);
+        public Quiz GetQuizById(Guid id);
         public void InsertQuiz(Quiz quiz);
         public void UpdateQuiz(int id, Quiz quiz);
         public void DeleteQuiz(int id);

@@ -10,22 +10,23 @@ namespace Cuba_Staterkit.Controllers
     [Authorize]
     public class QuizController : Controller
     {
-        private readonly IQuiz Quiz;
+        private readonly IQuiz _quiz;
         private readonly IClassSession _session;
         private readonly IToastNotification toastNotification;
+        private readonly IQuestion _question;
 
-
-        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification)
+        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification, IQuestion question)
         {
-            Quiz = quiz;
+            _quiz = quiz;
             _session = session;
             toastNotification = _toastNotification;
+            _question = question;
         }
 
         [HttpGet]
         public IActionResult AllQuizes()
         {
-            List<Quiz> Quizes = Quiz.GetAll();
+            List<Quiz> Quizes = _quiz.GetAll();
 
             return View(Quizes);
         }
@@ -46,7 +47,7 @@ namespace Cuba_Staterkit.Controllers
                 _session.InsertSession(session);
 
                 Quiz quiz = new Quiz() { Id = Guid.NewGuid(), Name = classSession.QuizName, SessionID = session.ID };
-                Quiz.InsertQuiz(quiz);
+                _quiz.InsertQuiz(quiz);
 
                 //Response.Cookies.Append("quizId", quiz.Id.ToString(), new CookieOptions
                 //{
@@ -61,10 +62,13 @@ namespace Cuba_Staterkit.Controllers
 
         public IActionResult Edit(Guid id)
         {
-            bool questionsExists = Quiz.QuizExist(id);
+            bool questionsExists = _quiz.QuizExist(id);
             if(questionsExists)
             {
-                return View("");
+                var quesions = _question.GetAllbyQuizId(id);
+                var quiz = _quiz.GetQuizById(id);
+                ViewBag.quiz = quiz;
+                return View(quesions);
             }  
             else
             {

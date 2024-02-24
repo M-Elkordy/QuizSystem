@@ -16,9 +16,10 @@ namespace Cuba_Staterkit.RepoServices
             return Context.Quizes.Include(S=>S.Session).ToList();
         }
 
-        public Quiz GetQuiznById(int id)
+        public Quiz GetQuizById(Guid id)
         {
-            throw new NotImplementedException();
+            var quiz = Context.Quizes.Include(q => q.Questions).Include(S => S.Session).FirstOrDefault();
+            return quiz;
         }
 
         public bool QuizExist(Guid id)

@@ -15,6 +15,11 @@ namespace Cuba_Staterkit.RepoServices
         {
             throw new NotImplementedException();
         }
+        public List<Question> GetAllbyQuizId(Guid id )
+        {
+            var questions = Context.Questions.Where(Q => Q.QuizID == id).ToList();
+            return questions;
+        }
 
         public Question GetQuestionById(int id)
         {

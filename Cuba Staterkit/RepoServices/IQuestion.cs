@@ -9,5 +9,7 @@ namespace Cuba_Staterkit.RepoServices
         public void InsertQuestion(Question question);
         public void UpdateQuestion(int id, Question question);
         public void DeleteQuestion(int id);
+        public List<Question> GetAllbyQuizId(Guid id);
+
     }
 }
