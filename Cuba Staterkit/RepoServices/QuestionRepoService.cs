@@ -15,7 +15,6 @@ namespace Cuba_Staterkit.RepoServices
         {
             throw new NotImplementedException();
         }
-
         public Question GetQuestionById(int id)
         {
             throw new NotImplementedException();
@@ -43,6 +42,15 @@ namespace Cuba_Staterkit.RepoServices
         public void DeleteQuestion(int id)
         {
             throw new NotImplementedException();
+        }
+
+        public Dictionary<string, List<Question>> GetQuestionsByQuizId(Guid quizId)
+        {
+            IQueryable<Question> result = Context.Questions.Where(q => q.QuizID == quizId).OrderBy(q => q.VersionID);
+            Dictionary<string, List<Question>> versionIdGroups = result.GroupBy(q => q.VersionID)
+                                                                      .ToDictionary(g => g.Key, g => g.ToList());
+
+            return versionIdGroups;
         }
     }
 }

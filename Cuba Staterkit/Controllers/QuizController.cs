@@ -13,13 +13,14 @@ namespace Cuba_Staterkit.Controllers
         private readonly IQuiz Quiz;
         private readonly IClassSession _session;
         private readonly IToastNotification toastNotification;
+        private readonly IQuestion Question;
 
-
-        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification)
+        public QuizController(IQuiz quiz, IClassSession session, IToastNotification _toastNotification, IQuestion question)
         {
             Quiz = quiz;
             _session = session;
             toastNotification = _toastNotification;
+            Question = question;
         }
 
         [HttpGet]
@@ -64,7 +65,8 @@ namespace Cuba_Staterkit.Controllers
             bool questionsExists = Quiz.QuizExist(id);
             if(questionsExists)
             {
-                return View("");
+                Dictionary<string, List<Question>> questions = Question.GetQuestionsByQuizId(id);
+                return View(questions);
             }  
             else
             {

@@ -97,6 +97,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
     },
     {
+      "Id": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\css\\imageStyles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\imageStyles.css"
+    },
+    {
       "Id": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\css\\responsive.css",
       "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
     },
@@ -4855,6 +4859,10 @@
     {
       "Id": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\images\\tree\\throbber.gif",
       "PackagePath": "staticwebassets\\assets\\images\\tree\\throbber.gif"
+    },
+    {
+      "Id": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\images\\upload.png",
+      "PackagePath": "staticwebassets\\assets\\images\\upload.png"
     },
     {
       "Id": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\images\\user-card\\5.jpg",

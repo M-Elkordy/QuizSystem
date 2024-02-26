@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 
 }
-
+<link rel="stylesheet" href="~/assets/css/imageStyles.css">
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
 
@@ -58,7 +58,7 @@
                                 <div class="col-sm-12 col-xl-12">
                                     <div class="card card-absolute  border border-secondary">
                                         <div class="card-header bg-primary" style="top: -46px;">
-                                            <h4 class="text-white">Main Question @Model.ToString()</h4>
+                                            <h4 class="text-white">Main Question</h4>
                                         </div>
                                         <div class="card-body align-items-center justify-content-center tab">
                                             <div class="widget-content">
@@ -67,10 +67,15 @@
                                                     <div class="mb-3">
                                                         <label for="Question"><strong>Question Body :</strong></label>
                                                         <div class="input-group">
-                                                            <input class="form-control Question" id="Question" type="text" name="Body"
-                                                                   placeholder="Example : What is the Measuring unit of Voltage ?">
-                                                            <input class="form-control ms-3 ImgUrl" type="file" name="ImgUrl"
-                                                                   placeholder="Example : Volt">
+                                                            <textarea class="Question" id="Question" name="Body" rows="3" cols="75" 
+                                                                   placeholder="Example : What is the Measuring unit of Voltage ?" style="resize: none; font-size: 16px;"></textarea>
+                                                            <div id="imgBox">
+                                                                <img class="ImgUrl" src="" alt="" id="imgUploaded">
+                                                                <input type="file" accept="image/*" name="image" id="file" style="display: none;" onchange="loadFile(event)">
+                                                                <label for="file">
+                                                                    <img src="~/assets/images/upload.png" class="upload-icon" alt="upload image">
+                                                                </label>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                     <div class="mb-3">
@@ -81,6 +86,30 @@
                                                             <input class="form-control ms-2" id="Answer" type="file" placeholder="Example: Volt">
                                                             <button class="btn btn-success ms-4 an" type="button" data-version="main">
                                                                 <i class="fas fa-plus-circle"></i>
+                                                            </button>
+                                                        </div>
+                                                        <div class='d-flex align-items-center justify-content-evenly py-4 input-group'>
+                                                            <input type='radio' name='ans0' class='me-3 correct-answer' />
+                                                            <input type='text' class='form-control text-black answer' placeholder='Answer'>
+                                                            <input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>
+                                                            <button class='btn btn-danger ms-4 removeRow' data-repeater-delete>
+                                                                <span class='align-middle'><i class='fas fa-backspace'></i></span>
+                                                            </button>
+                                                        </div>
+                                                        <div class='d-flex align-items-center justify-content-evenly py-4 input-group'>
+                                                            <input type='radio' name='ans0' class='me-3 correct-answer' />
+                                                            <input type='text' class='form-control text-black answer' placeholder='Answer'>
+                                                            <input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>
+                                                            <button class='btn btn-danger ms-4 removeRow' data-repeater-delete>
+                                                                <span class='align-middle'><i class='fas fa-backspace'></i></span>
+                                                            </button>
+                                                        </div>
+                                                        <div class='d-flex align-items-center justify-content-evenly py-4 input-group'>
+                                                            <input type='radio' name='ans0' class='me-3 correct-answer' />
+                                                            <input type='text' class='form-control text-black answer' placeholder='Answer'>
+                                                            <input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>
+                                                            <button class='btn btn-danger ms-4 removeRow' data-repeater-delete>
+                                                                <span class='align-middle'><i class='fas fa-backspace'></i></span>
                                                             </button>
                                                         </div>
                                                         <div class="mb-3 ans-main">
@@ -131,48 +160,71 @@
             counter++;
             var newVersion = $(
                 "<div class='col-sm-12 col-xl-12 mt-5 mb-3 tab' id='version" + versionCounter + "'>" +
-                "<div class='card card-absolute border border-secondary mt-5'>" +
-                "<div class='card-header bg-primary' style='top: -46px;'>" +
-                "<h4 class='text-white'>Version " + versionCounter + "</h4>" +
-                "<div style='text-align: right !important;'>" +
-                "</div>" +
-                "</div>" +
-                "<div class='card-body align-items-center justify-content-center'>" +
-                "<div class='widget-content'>" +
-                "<div class='row'>" +
-                "<div class='col-lg-12'>" +
-                "<div style='text-align: right !important;'>" +
-                "<button class='btn btn-danger text-right removeVersion' data-version='" + versionCounter + "'>Remove</button>" +
-                "</div>" +
-                "</div>" +
-                "<div class='mb-3'>" +
-                "<label for='Question'><strong>Question Body :</strong></label>" +
-                "<div class='input-group'>" +
-                "<input class='form-control Question' id='Question' type='text' name='Body' placeholder='Example : What is the Measuring unit of Voltage ?'>" +
-                "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' name='ImgUrl' placeholder='Example : Volt'>" +
-                "</div>" +
-                "</div>" +
-                "<div class='mb-3'>" +
-                "<label for='Answer'><strong>Answer Body :</strong></label>" +
-                "<div class='input-group py-3'>" +
-                "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer' checked />" +
-                "<input class='form-control answer' id='Answer' type='text' placeholder='Example : Volt'>" +
-                "<input class='form-control ms-2' id='Answer' type='file' placeholder='Example : Volt'>" +
-                "<button class='btn btn-success ms-4 an' type='button'><i class='fas fa-plus-circle'></i></button>" +
-                "</div>" +
-                "</div>" +
-                "<div class='mb-3 ans'>" +
-                "</div>" +
-                "</div>" +
-                "</div>" +
-                "</div>" +
-                "</div>" +
+                    "<div class='card card-absolute border border-secondary mt-5'>" +
+                        "<div class='card-header bg-primary' style='top: -46px;'>" +
+                            "<h4 class='text-white'>Version " + versionCounter + "</h4>" +
+                            "<div style='text-align: right !important;'>" +
+                            "</div>" +
+                        "</div>" +
+                        "<div class='card-body align-items-center justify-content-center'>" +
+                            "<div class='widget-content'>" +
+                                "<div class='row'>" +
+                                    "<div class='col-lg-12'>" +
+                                        "<div style='text-align: right !important;'>" +
+                                            "<button class='btn btn-danger text-right removeVersion' data-version='" + versionCounter + "'>Remove</button>" +
+                                        "</div>" +
+                                    "</div>" +
+                                    "<div class='mb-3'>" +
+                                        "<label for='Question'><strong>Question Body :</strong></label>" +
+                                        "<div class='input-group'>" +
+                                            "<textarea class='form-control Question' id='Question' name='Body' rows='5' cols='50' style='resize: none;' placeholder='Example : What is the Measuring unit of Voltage ?'></textarea>" +
+                                            "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' name='ImgUrl' placeholder='Example : Volt'>" +
+                                        "</div>" +
+                                    "</div>" +
+                                    "<div class='mb-3'>" +
+                                        "<label for='Answer'><strong>Answer Body :</strong></label>" +
+                                        "<div class='input-group py-3'>" +
+                                            "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer' checked />" +
+                                            "<input class='form-control answer' id='Answer' type='text' placeholder='Example : Volt'>" +
+                                            "<input class='form-control ms-2' id='Answer' type='file' placeholder='Example : Volt'>" +
+                                            "<button class='btn btn-success ms-4 an' type='button'><i class='fas fa-plus-circle'></i></button>" +
+                                        "</div>" +
+                                    "</div>" +
+                                    "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
+                                        "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
+                                        "<input type='text' class='form-control text-black answer' placeholder='Answer'>" +
+                                        "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
+                                        "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
+                                            "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
+                                        "</button>" +
+                                    "</div>" +
+                                    "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
+                                        "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
+                                        "<input type='text' class='form-control text-black answer' placeholder='Answer'>" +
+                                        "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
+                                        "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
+                                            "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
+                                        "</button>" +
+                                    "</div>" +
+                                    "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
+                                        "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
+                                        "<input type='text' class='form-control text-black answer' placeholder='Answer'>" +
+                                        "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
+                                        "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
+                                            "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
+                                        "</button>" +
+                                    "</div>" +
+                                    "<div class='mb-3 ans'>" +
+                                    "</div>" +
+                                "</div>" +
+                            "</div>" +
+                        "</div>" +
+                    "</div>" +
                 "</div>"
             );
 
             // Append newVersion to #versions
             newVersion.appendTo("#versions");
-
 
             versionCounter++;
         });
@@ -181,12 +233,12 @@
         $("#versions").on("click", ".an", function () {
             var newAns = $(
                 "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
-                "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
-                "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
-                "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
-                "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
-                "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
-                "</button>" +
+                    "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
+                    "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
+                    "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
+                    "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
+                        "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
+                    "</button>" +
                 "</div>"
             );
             $(this).closest(".card").find(".ans").append(newAns);
@@ -201,12 +253,12 @@
         $(".an[data-version='main']").click(function () {
             var newAns = $(
                 "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
-                "<input type='radio' name='ans0' class='me-3 correct-answer'/>" +
-                "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
-                "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
-                "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
-                "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
-                "</button>" +
+                    "<input type='radio' name='ans0' class='me-3 correct-answer'/>" +
+                    "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
+                    "<input class='form-control ms-3' id='Answer' type='file' placeholder='Example : Volt'>" +
+                    "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
+                        "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
+                    "</button>" +
                 "</div>"
             );
             $(".ans-main").append(newAns);
@@ -227,7 +279,7 @@
 
                 var questionData = {
                     Body: $(this).find(".Question").val(),
-                    ImgUrl: $(this).find(".ImgUrl").val(),
+                    ImgUrl: $(this).find(".ImgUrl").attr('src'),
                     Answers: [],
                     CorrectAnswer: "",
                     QuizID: QuizId.toString(),
@@ -260,8 +312,20 @@
                 }
             });
         });
-       
-       
+    </script>
+    @*script to add image when uploaded*@
+    <script>
+        var loadFile = function (event) {
+            var file = event.target.files[0];
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                var img = document.getElementById("imgUploaded");
+                img.src = e.target.result;
+                img.style.visibility = 'visible';
+            };
+
+            reader.readAsDataURL(file);
+        }
     </script>
 }
-

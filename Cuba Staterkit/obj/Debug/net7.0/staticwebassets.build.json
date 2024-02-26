@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+1qNFdbbW3qoPjUkxp2/0sWEaISQo4y1YXSLjFyTCaA=",
+  "Hash": "kdUJ/pvcpS037JlNgqMcfbj91ioLtckdtKu7oiFT7tw=",
   "Source": "Cuba Staterkit",
   "BasePath": "_content/Cuba Staterkit",
   "Mode": "Default",
@@ -1494,6 +1494,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Identity": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\css\\imageStyles.css",
+      "SourceId": "Cuba Staterkit",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\",
+      "BasePath": "_content/Cuba Staterkit",
+      "RelativePath": "assets/css/imageStyles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\imageStyles.css"
     },
     {
       "Identity": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\css\\responsive.css",
@@ -21724,6 +21741,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\tree\\throbber.gif"
+    },
+    {
+      "Identity": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\images\\upload.png",
+      "SourceId": "Cuba Staterkit",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\",
+      "BasePath": "_content/Cuba Staterkit",
+      "RelativePath": "assets/images/upload.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\upload.png"
     },
     {
       "Identity": "D:\\Quiz system\\Cuba Staterkit\\wwwroot\\assets\\images\\user.jpg",
