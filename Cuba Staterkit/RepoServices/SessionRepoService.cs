@@ -6,12 +6,12 @@ namespace Cuba_Staterkit.RepoServices
 {
     public class SessionRepoService : IClassSession
     {
-        public Context Context { get;}
-        public SessionRepoService( Context context) 
+        public Context Context { get; }
+        public SessionRepoService(Context context)
         {
             Context = context;
         }
-  
+
         public List<Session> GetAll()
         {
             return Context.Sessions.Include(q => q.quiz).ToList();
@@ -44,22 +44,42 @@ namespace Cuba_Staterkit.RepoServices
         {
 
         }
+        /* public void DeleteSession(Guid Id)
+         {
+             Session sessionToDelete = Context.Sessions.Find(Id);
+             if (sessionToDelete != null)
+             {
+                 Context.Sessions.Remove(sessionToDelete);
+                 Context.SaveChanges();
+             }
+
+         }*/
+
         public void DeleteSession(Guid Id)
         {
-            Session sessionToDelete = Context.Sessions.Find(Id);
-            if (sessionToDelete != null)
+            Session session = Context.Sessions.Find(Id);
+
+            if (session != null)
             {
-                Context.Sessions.Remove(sessionToDelete);
+                var quizzes = Context.Quizes.Where(Q => Q.Session.ID == Id).ToList();
+
+                foreach (var quiz in quizzes)
+                {
+                    var questions = Context.Questions.Where(Q => Q.QuizID == quiz.Id).ToList();
+
+                    foreach (var question in questions)
+                    {
+                        Context.Questions.Remove(question);
+                    }
+
+                    Context.Quizes.Remove(quiz);
+                }
+
+                Context.Sessions.Remove(session);
+
                 Context.SaveChanges();
             }
 
         }
-
-
-
-
-
-
-
     }
 }

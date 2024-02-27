@@ -16,10 +16,16 @@ namespace Cuba_Staterkit.RepoServices
             throw new NotImplementedException();
         }
 
-        public Question GetQuestionById(int id)
+        public List<Question> GetQuestionById(string id)
         {
-            throw new NotImplementedException();
+            List<Question> questions = Context.Questions
+                .Where(q => q.QuizID.ToString() == id)
+                .ToList();
+
+            return questions;
         }
+
+
 
         public void InsertQuestion(Question question)
         {

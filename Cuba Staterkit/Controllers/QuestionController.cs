@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using NToastNotify;
 using System.Text.Json.Nodes;
+using static System.Collections.Specialized.BitVector32;
 
 namespace Cuba_Staterkit.Controllers
 {
@@ -17,7 +18,9 @@ namespace Cuba_Staterkit.Controllers
             toastNotification = _toastNotification;
         }
 
-        [HttpPost]
+      
+
+            [HttpPost]
         public ActionResult Create([FromBody] List<QuestionViewModel> questions)
         {
             if (ModelState.IsValid)
@@ -78,5 +81,17 @@ namespace Cuba_Staterkit.Controllers
             }
             return RedirectToAction("CreateHomework", "Assesment");
         }
+
+
+        public ActionResult EditQuestions(string id)
+        {
+
+            var questions = Question.GetQuestionById(id).ToList();
+            return View(questions);
+        }
+
+
+
+
     }
 }

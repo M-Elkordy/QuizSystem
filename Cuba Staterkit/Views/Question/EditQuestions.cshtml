@@ -1,0 +1,145 @@
+﻿@model List<Question>
+@{
+    ViewData["Title"] = "EditQuestions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var MainQuestionCounter = 1;
+    var VersionCounter = 0;
+    var RadioCounter = 0;
+}
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<div class="page-body">
+    <div class="container-fluid">
+        <div class="page-title" style="margin-top: -29px !important;">
+            <div class="row">
+                <div class="col-6">
+                    <h3>Form Wizard</h3>
+                </div>
+                <div class="col-6">
+               
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid starts-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="text-center">
+                            <img width="60" class="me-2" height="60"
+                                 src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-question-online-learning-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" />
+                            Question Edit
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <ul class="nav nav-tabs nav-secondary" id="question-tabs" role="tablist">
+                            @{
+                                var Tabcounter = 0;
+                            }
+                            @foreach (var mainQuestion in Model.Where(q => q.ID.ToString() == q.VersionID))
+                            {
+                                Tabcounter++;
+                                <li class="nav-item" role="presentation">
+                                    <a class="nav-link @(Tabcounter == 1 ? "active" : "")" id="question-tab-@mainQuestion.ID" data-bs-toggle="tab" href="#question-@mainQuestion.ID" role="tab" aria-controls="question-@mainQuestion.ID" aria-selected="false"><h5><i class="far fa-file-pdf"></i> Question @Tabcounter</h5></a>
+                                </li>
+                            }
+
+                        </ul>
+
+                        <div class="tab-content" id="question-tabs-content">
+                            @foreach (var mainQuestion in Model.Where(q => q.ID.ToString() == q.VersionID))
+                            {
+                                <div class="tab-pane @(MainQuestionCounter == 1 ? "fade show active" : "fade")" id="question-@mainQuestion.ID" role="tabpanel" aria-labelledby="question-tab-@mainQuestion.ID">
+                                    <div class="col-sm-12 col-xl-12 mt-5" style="top: -46px;">
+                                        <div class="card card-absolute border border-secondary" style="margin-top:8%;">
+                                            <div class="card-header bg-primary rounded-pill" style="top: -26px;">
+                                                <h5 class="text-white"> Main Question</h5>
+                                            </div>
+                                            <div class="card-body align-items-center justify-content-center tab">
+                                                <div class="widget-content">
+                                                    <input type="hidden" name="quizId" value="@Model" />
+                                                    <div class="row">
+                                                        <div class="mb-3">
+                                                            <label for="Question"><strong>Question Body :</strong></label>
+                                                            <div class="input-group">
+                                                                <input class="form-control Question" id="Question" type="text" name="Body"
+                                                                       placeholder="Example : What is the Measuring unit of Voltage ?" asp-for="@mainQuestion.Body">
+                                                            </div>
+                                                        </div>
+                                                        <div class="mb-3">
+                                                            <label for="Answer"><strong>Answer Body :</strong></label>
+                                                            @{
+                                                                var Answers = @mainQuestion.Answers.Split(',');
+                                                                var RadioId = "q" + RadioCounter;
+                                                                foreach (var Ans in Answers)
+                                                                {
+                                                                    <div class="input-group py-1">
+                                                                        <input type="radio" name="@("Radio" + RadioId)" class='me-3 correct-answer' checked="@(Ans == mainQuestion.CorrectAnswer)" />
+                                                                        <input class="form-control answer" id="Answer" type="text" name="" placeholder="Example: Volt" asp-for="@Ans">
+                                                                    </div>
+                                                                }
+                                                                RadioCounter++;
+                                                            }
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @{
+                                            VersionCounter = 0;
+                                        }
+                                        @foreach (var version in Model.Where(q => q.VersionID == mainQuestion.ID.ToString() && q.ID != mainQuestion.ID))
+                                        {
+                                            VersionCounter++;
+                                            <div class="card card-absolute border border-secondary" style="margin-top: 7% !important;">
+                                                <div class="card-header bg-warning rounded-pill" style="top: -26px;">
+                                                    <h5 class="text-white">Version : @VersionCounter</h5>
+                                                </div>
+                                                <div class="card-body align-items-center justify-content-center tab">
+                                                    <div class="widget-content">
+                                                        <div class="row">
+                                                            <div class="mb-3">
+                                                                <label for="Question"><strong>Question Version Body :</strong></label>
+                                                                <div class="input-group">
+                                                                    <input class="form-control Question" id="Question" type="text" name="Body"
+                                                                           placeholder="Example : What is the Measuring unit of Voltage ?" asp-for="@version.Body">
+                                                                </div>
+                                                            </div>
+                                                            <div class="mb-3">
+                                                                <label for="Answer"><strong>Answer Body :</strong></label>
+                                                                @{
+                                                                    var VersionAnswers = @version.Answers.Split(',');
+                                                                    var VersionRadioId = "q" + RadioCounter;
+                                                                    foreach (var Ans in VersionAnswers)
+                                                                    {
+                                                                        <div class="input-group py-1">
+                                                                            <input type="radio" name="@("Radio" + VersionRadioId)" class='me-3 correct-answer' checked="@(Ans == version.CorrectAnswer)" />
+                                                                            <input class="form-control answer" id="Answer" type="text" name="" placeholder="Example: Volt" asp-for="@Ans">
+                                                                        </div>
+                                                                    }
+                                                                    RadioCounter++;
+                                                                }
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        }
+
+                                    </div>
+                                </div>
+                                MainQuestionCounter++;
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
