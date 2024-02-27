@@ -3,6 +3,10 @@
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+
+@{
+    int keysCount = 0;
+}
 <link rel="stylesheet" href="~/assets/css/imageStyles.css">
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
@@ -49,13 +53,17 @@
                                     Submit
                                 </button>
                                 <button class="btn btn-warning addRow rounded-pill" type="button"><i class="fas fa-code-branch"></i> Add Version</button>
-                                <button id="nextQuestion" class="btn btn-success rounded-pill" type="button"><i class="fas fa-code-branch"></i> Next Question</button>
+                                <button class="btn btn-warning addQuestion rounded-pill" type="button"><i class="fas fa-code-branch"></i> Add Question</button>
                                 <button id="previousQuestion" class="btn btn-success rounded-pill" type="button" disabled><i class="fas fa-code-branch"></i> Prev Question</button>
+                                <button id="nextQuestion" class="btn btn-success rounded-pill" type="button"><i class="fas fa-code-branch"></i> Next Question</button>
                             </div>
                         </div>
                         <div class="card-body">
                             <div class="row mt-3" id="questionContainer">
-                                @{int screenNumber = 0; }
+                                @{
+                                    int screenNumber = 0; 
+                                    keysCount = Model.Keys.Count();
+                                }
                                 @foreach (var versionId in Model.Keys)
                                 {
                                     int versionNumber = 0, questionNumber = 1;
@@ -63,13 +71,13 @@
                                         @foreach (var question in Model[versionId])
                                         {
                                             List<string> answersList = question.Answers.Split(',').ToList();
-                                            <div class="col-sm-12 col-xl-12">
+                                            <div class="col-sm-12 col-xl-12" id="questionTemplate">
                                                 <div class="card card-absolute  border border-secondary">
                                                     <div class="card-header bg-primary" style="top: -46px;">
                                                         <h4 class="text-white">
                                                             @if (versionNumber == 0)
                                                             {
-                                                                <text>Question @(screenNumber+1) / @(Model.Keys.Count())</text>
+                                                                <text>Question @(screenNumber+1) / @(keysCount)</text>
                                                             }
                                                             else
                                                             {
@@ -100,11 +108,8 @@
                                                                 {
                                                                     Console.WriteLine(question.CorrectAnswer);
                                                                     <div class="mb-3">
-                                                                        <div class="input-group py-3">
-                                                                            <input type="radio" name="ans-@versionNumber" class='me-3 correct-answer' @if (answersList[i] == question.CorrectAnswer)
-                                                                            {
-                                                                                <text>checked</text>
-                                                                            }/>
+                                                                        <div class="input-group py-3 d-flex">
+                                                                            <input type="radio" name="ans-@versionNumber" class="me-3 correct-answer" @(answersList[i] == question.CorrectAnswer ? "checked" : "")>
                                                                             <input class="form-control answer" id="Answer" type="text" name="" value="@answersList[i]">
                                                                             <input class="form-control ms-2" id="Answer" type="file"> @*add image url*@
                                                                             @if (i == 0)
@@ -343,46 +348,95 @@
     <script>
         var nextBtn = document.getElementById("nextQuestion");
         var prevBtn = document.getElementById("previousQuestion");
+        var questionContainer = document.getElementById("questionContainer");
         var screenNumber = 0;
+        var keyCount = @keysCount;
+        if (screenNumber == keyCount - 1 && screenNumber == 0) {
+            nextBtn.disabled = true;
+            prevBtn.disabled = true;
+        }
         nextBtn.addEventListener('click', function() {
-            if(screenNumber == 0) {
-                prevBtn.disabled = false;
-            } 
-            else if (screenNumber == @Model.Keys.Count() - 2) {
+            var childDivs = questionContainer.getElementsByTagName("div");
+            if (screenNumber  == keyCount - 2) {
                 nextBtn.disabled = true;
                 prevBtn.disabled = false;
             }
+            else if(screenNumber == 0) {
+                prevBtn.disabled = false;
+            } 
             else {
                 prevBtn.disabled = false;
                 nextBtn.disabled = false;
             }
-            $("#questionSet_" + screenNumber).fadeOut("slow", function () {
-                $(this).css("display", "none");
-            });
+            console.log(keyCount);
+            for (let i = 0; i <= keyCount - 1; i++) {
+                $("#questionSet_" + i).fadeOut("slow", function () {
+                    $(this).css("display", "none");
+                });
+            }
+
             screenNumber++;
             $("#questionSet_" + screenNumber).fadeIn("slow", function () {
                 $(this).css("display", "block");
             });
         });
         prevBtn.addEventListener('click', function() {
-            if(screenNumber == 0) {
-                prevBtn.disabled = true;
-            } 
-            else if (screenNumber == @Model.Keys.Count() - 2) {
+            if (screenNumber == keyCount - 2) {
                 nextBtn.disabled = false;
                 prevBtn.disabled = true;
             }
+            else if(screenNumber - 1 == 0) {
+                prevBtn.disabled = true;
+                nextBtn.disabled = false;
+            } 
             else {
                 prevBtn.disabled = false;
                 nextBtn.disabled = false;
             }
-            $("#questionSet_" + screenNumber).fadeOut("slow", function () {
-                $(this).css("display", "none");
-            });
+            for (let i = 0; i <= keyCount - 1; i++) {
+                $("#questionSet_" + i).fadeOut("slow", function () {
+                    $(this).css("display", "none");
+                });
+            }
             screenNumber--;
             $("#questionSet_" + screenNumber).fadeIn("slow", function () {
                 $(this).css("display", "block");
             });
+        });
+    </script>
+    @*script for adding new question*@
+    <script>
+        // Function to add a new question section
+        function addQuestionSection() {
+            // hide all questions
+            for (let i = 0; i < keyCount - 1; i++) {
+                $("#questionSet_" + i).fadeOut("slow", function () {
+                    $(this).css("display", "none");
+                });
+            }
+            // Clone the question template
+            var newQuestionSection = $("#questionTemplate").clone();
+            // give the cloned div an id
+            newQuestionSection.attr("id", "questionSet_" + keyCount);
+            // Clear input values within the cloned div
+            newQuestionSection.find('textarea, input[type="text"]').val('');
+            newQuestionSection.find('input[type="file"]').val(null); // Clear file input value
+            newQuestionSection.find('input[type="radio"]').prop('checked', false);
+            newQuestionSection.find('h4.text-white').html("New Question");
+            // Clear any styling that hides the template
+            newQuestionSection.removeAttr("style");
+            // Append the new question section to the parent container
+            $("#questionContainer").append(newQuestionSection);
+
+            keyCount++;
+            screenNumber = keyCount - 1;
+            nextBtn.disabled = true;
+            prevBtn.disabled = false;
+        }
+
+        // Event listener for the Add Question button
+        $(".addQuestion").on("click", function () {
+            addQuestionSection();
         });
     </script>
 }
