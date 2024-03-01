@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVJapCl608HT0YbGl6BktCS304/LXaqSxCorZe3Yoce8Aj/ZWe9b7KnVoFiLMaW8IpkhAnabHIDgLR93K5ClMw==",
+  "dgSpecHash": "USPlPWIf6SOtmYMjYC4mkMAKzzdon/CdhjLb9zeYWF3G1ArD1gPLYQBMteCoHaKqYHZbB9lWOZLhRqv/1C1Vpg==",
   "success": true,
-  "projectFilePath": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
+  "projectFilePath": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kordy\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\kordy\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

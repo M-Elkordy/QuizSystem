@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
+    "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {}
   },
   "projects": {
-    "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj": {
+    "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "projectUniqueName": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
         "projectName": "Cuba Staterkit",
-        "projectPath": "D:\\Quiz system\\Cuba Staterkit\\Cuba Staterkit.csproj",
+        "projectPath": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
         "packagesPath": "C:\\Users\\kordy\\.nuget\\packages\\",
-        "outputPath": "D:\\Quiz system\\Cuba Staterkit\\obj\\",
+        "outputPath": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
