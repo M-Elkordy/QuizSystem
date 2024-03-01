@@ -8,6 +8,7 @@ using Cuba_Staterkit.Data;
 
 namespace Cuba_Staterkit.Models
 {
+ //comment
     public class ClassSessionVm
     {
         public string QuizName { get; set; }
