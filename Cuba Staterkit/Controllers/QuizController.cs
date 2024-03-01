@@ -27,7 +27,6 @@ namespace Cuba_Staterkit.Controllers
         public IActionResult AllQuizes()
         {
             List<Quiz> Quizes = Quiz.GetAll();
-
             return View(Quizes);
         }
 
@@ -60,13 +59,13 @@ namespace Cuba_Staterkit.Controllers
             }
         }
 
-        public IActionResult Edit(Guid id)
+        public IActionResult Check(Guid id)
         {
-            bool questionsExists = Quiz.QuizExist(id);
+            bool questionsExists = Quiz.QuizQuestionsExist(id);
+
             if(questionsExists)
             {
-                Dictionary<string, List<Question>> questions = Question.GetQuestionsByQuizId(id);
-                return View(questions);
+                return RedirectToAction("EditQuestions","Question",new {id =id});
             }  
             else
             {
@@ -77,5 +76,6 @@ namespace Cuba_Staterkit.Controllers
         {
             _session.DeleteSession(Id);
         }
+
     }
 }

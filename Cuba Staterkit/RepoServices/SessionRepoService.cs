@@ -44,16 +44,17 @@ namespace Cuba_Staterkit.RepoServices
         {
 
         }
-        //public void DeleteSession(Guid Id)
-        //{
-        //    Session sessionToDelete = Context.Sessions.Find(Id);
-        //    if (sessionToDelete != null)
-        //    {
-        //        Context.Sessions.Remove(sessionToDelete);
-        //        Context.SaveChanges();
-        //    }
+        /* public void DeleteSession(Guid Id)
+         {
+             Session sessionToDelete = Context.Sessions.Find(Id);
+             if (sessionToDelete != null)
+             {
+                 Context.Sessions.Remove(sessionToDelete);
+                 Context.SaveChanges();
+             }
 
-        //}
+         }*/
+
         public void DeleteSession(Guid Id)
         {
             Session session = Context.Sessions.Find(Id);

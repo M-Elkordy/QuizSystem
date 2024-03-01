@@ -9,6 +9,6 @@ namespace Cuba_Staterkit.RepoServices
         public void InsertQuiz(Quiz quiz);
         public void UpdateQuiz(int id, Quiz quiz);
         public void DeleteQuiz(int id);
-        public bool QuizExist(Guid id);
+        public bool QuizQuestionsExist(Guid id);
     }
 }
