@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sEq0sJw0eLnqM/FPpVJ7iJOWPXRzyYmcOStyj19Qat8=",
+  "Hash": "WDjgnmG12ZwDfOBYiBlvt2CStZnrXeEydGCvMyGO9Wo=",
   "Source": "Cuba Staterkit",
   "BasePath": "_content/Cuba Staterkit",
   "Mode": "Default",
@@ -1494,6 +1494,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Identity": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\wwwroot\\assets\\css\\imageStyles.css",
+      "SourceId": "Cuba Staterkit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\wwwroot\\",
+      "BasePath": "_content/Cuba Staterkit",
+      "RelativePath": "assets/css/imageStyles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\imageStyles.css"
     },
     {
       "Identity": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\wwwroot\\assets\\css\\responsive.css",
