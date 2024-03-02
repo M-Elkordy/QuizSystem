@@ -54,7 +54,9 @@ namespace Cuba_Staterkit.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Answers")
-                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AnswersURL")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Body")
@@ -62,6 +64,9 @@ namespace Cuba_Staterkit.Migrations
 
                     b.Property<string>("CorrectAnswer")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CorrectAnswerUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<Guid?>("HomeWorkID")

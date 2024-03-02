@@ -3,6 +3,7 @@ using Cuba_Staterkit.RepoServices;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using NToastNotify;
+using System.Text;
 using System.Text.Json.Nodes;
 using static System.Collections.Specialized.BitVector32;
 
@@ -21,63 +22,8 @@ namespace Cuba_Staterkit.Controllers
             _environment = environment;
         }
 
-        //[HttpPost]
-        //public IActionResult UploadFiles(List<IFormFile> bodyImages)
-        //{
-        //    var fileNames = new List<string>();
-
-        //    foreach (var file in bodyImages)
-        //    {
-        //        if (file != null && file.Length > 0)
-        //        {
-        //            var uploads = Path.Combine(_environment.WebRootPath, "uploads");
-        //            var fileName = Path.GetFileName(file.FileName);
-        //            var filePath = Path.Combine(uploads, fileName);
-
-        //            using (var fileStream = new FileStream(filePath, FileMode.Create))
-        //            {
-        //                file.CopyTo(fileStream);
-        //            }
-
-        //            fileNames.Add(fileName);
-        //        }
-        //    }
-
-        //    return Ok(fileNames);
-        //}
-
-        //[HttpPost]
-        //public async Task<IActionResult> UploadFiles()
-        //{
-        //    var uploads = Path.Combine(_environment.WebRootPath, "uploads");
-        //    if (!Directory.Exists(uploads))
-        //    {
-        //        Directory.CreateDirectory(uploads);
-        //    }
-
-        //    var filePaths = new List<string>();
-        //    foreach (var formFile in Request.Form.Files)
-        //    {
-        //        Console.WriteLine(formFile);
-        //        if (formFile.Length > 0)
-        //        {
-        //            var fileName = Guid.NewGuid().ToString() + "_" + formFile.FileName; //give each material a uniqu name to prevent override Files
-        //            // var fileName = Path.GetFileName(formFile.FileName);
-        //            var filePath = Path.Combine(uploads, fileName);
-
-        //            using (var stream = new FileStream(filePath, FileMode.Create))
-        //            {
-        //                await formFile.CopyToAsync(stream);
-        //            }
-
-        //            filePaths.Add(filePath);
-        //        }
-        //    }
-        //    return Ok(filePaths);
-        //}
-
         [HttpPost]
-        public async Task<IActionResult> UploadFiles()
+        public async Task<IActionResult> UploadFiles(List<IFormFile> formData)
         {
             try
             {
@@ -87,20 +33,21 @@ namespace Cuba_Staterkit.Controllers
                     Directory.CreateDirectory(uploads);
                 }
 
-                var filePaths = new List<string>();
+                var filePaths = new Dictionary<string, string>();
                 foreach (var formFile in Request.Form.Files)
                 {
                     if (formFile.Length > 0)
                     {
                         var fileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(formFile.FileName);
                         var filePath = Path.Combine(uploads, fileName);
+                        string name = formFile.Name;
 
                         using (var stream = new FileStream(filePath, FileMode.Create))
                         {
                             await formFile.CopyToAsync(stream);
                         }
 
-                        filePaths.Add(filePath);
+                        filePaths.Add(name, filePath);
                     }
                 }
                 return Ok(filePaths);
@@ -112,10 +59,23 @@ namespace Cuba_Staterkit.Controllers
         }
 
 
-
         [HttpPost]
         public ActionResult Create([FromBody] QuestionUploadVM data)
         {
+            StringBuilder correctAnswerStr = new StringBuilder();
+            List<string> correctAnswerURL = new List<string>();
+            foreach (var item in data.filePaths)
+            {
+                if(item.Key != "bodyImage")
+                {
+                    correctAnswerURL.Add(item.Value);
+                    correctAnswerStr.Append(item.Value);
+                    correctAnswerStr.Append(",");
+                }
+            }
+
+            string answersUrl = correctAnswerStr.ToString().TrimEnd(',');
+
             if (ModelState.IsValid)
             {
                 // Generate a GUID for the first question
@@ -128,8 +88,10 @@ namespace Cuba_Staterkit.Controllers
                     {
                         ID = (i == 0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
                         Body = data.questions[i].Body,
-                        ImgUrl = data.filePaths[0],
+                        ImgUrl = data.filePaths["bodyImage"],
                         Answers = string.Join(",", data.questions[i].Answers),
+                        AnswersURL = answersUrl,
+                        CorrectAnswerUrl = correctAnswerURL[data.questions[i].CorrectAnswerIndex],
                         CorrectAnswer = data.questions[i].CorrectAnswer,
                         QuestionType = Questiontype.String,
                         AnswerType = Questiontype.String,

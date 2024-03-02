@@ -9,6 +9,7 @@
         public string CorrectAnswer { get; set; }
         public string QuizID { get; set; }
         public string VersionID { get; set; }
+        public int CorrectAnswerIndex { get; set; }
         //public IFormFile BodyImage { get; set; }
         //public IFormFile AnswerImages { get; set; }
     }

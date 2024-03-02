@@ -13,8 +13,9 @@ namespace Cuba_Staterkit.Models
         public Guid ID { get; set; }
         public string? Body { get; set; }
         public string? ImgUrl { get; set; }
-        [Required]
-        public string Answers { get; set; }
+        public string? Answers { get; set; }
+        public string? AnswersURL { get; set; }
+        public string? CorrectAnswerUrl { get; set; }
         [Required]
         public string CorrectAnswer { get; set; }
         public double Mark { get; set; } = 1.0;

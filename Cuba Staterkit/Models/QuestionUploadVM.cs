@@ -3,6 +3,6 @@
     public class QuestionUploadVM
     {
         public List<QuestionViewModel> questions { get; set;}
-        public List<string> filePaths { get; set;}
+        public Dictionary<string, string> filePaths { get; set;}
     }
 }
