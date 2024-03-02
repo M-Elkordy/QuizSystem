@@ -1075,37 +1075,33 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Mvc.Razor.Extensions/3.1.0": {
+      "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Razor.Language": "3.1.0",
-          "Microsoft.CodeAnalysis.Razor": "3.1.0"
+          "Microsoft.AspNetCore.Razor.Language": "6.0.0",
+          "Microsoft.CodeAnalysis.Razor": "6.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/3.1.0": {
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/7.0.16": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Razor.Extensions": "3.1.0",
-          "Microsoft.CodeAnalysis.Razor": "3.1.0",
-          "Microsoft.Extensions.DependencyModel": "3.1.0"
+          "Microsoft.AspNetCore.Mvc.Razor.Extensions": "6.0.0",
+          "Microsoft.CodeAnalysis.Razor": "6.0.0",
+          "Microsoft.Extensions.DependencyModel": "7.0.0"
         },
         "compile": {
-          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
+          "lib/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
+          "lib/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
             "related": ".xml"
           }
         },
@@ -1113,7 +1109,7 @@
           "Microsoft.AspNetCore.App"
         ],
         "build": {
-          "buildTransitive/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets": {}
+          "buildTransitive/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.ViewFeatures/2.2.0": {
@@ -5935,33 +5931,34 @@
         "microsoft.aspnetcore.mvc.formatters.json.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Mvc.Razor.Extensions/3.1.0": {
-      "sha512": "rXCWtoYzHe9rszNcbgl1k+wQU2dTSc+ersp3wFRv79FG7fTw1pljWqzzQ1CX7ipr40YArOp95IJACXUSE6mIpA==",
+    "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
+      "sha512": "M0h+ChPgydX2xY17agiphnAVa/Qh05RAP8eeuqGGhQKT10claRBlLNO6d2/oSV8zy0RLHzwLnNZm5xuC/gckGA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.mvc.razor.extensions/3.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll",
-        "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.xml",
-        "microsoft.aspnetcore.mvc.razor.extensions.3.1.0.nupkg.sha512",
-        "microsoft.aspnetcore.mvc.razor.extensions.nuspec",
-        "packageIcon.png"
-      ]
-    },
-    "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/3.1.0": {
-      "sha512": "SihuJFWfV6pRz5/yQm46luEQcoFIaDW+TDQBgAuRZeSKYJiGPmnUqpLX95ZcCwP7bd2pg5CwFA5el4C3KpfSGg==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.0",
+      "path": "microsoft.aspnetcore.mvc.razor.extensions/6.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "build/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
-        "buildTransitive/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
-        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll",
-        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.xml",
-        "microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.0.nupkg.sha512",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll",
+        "microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.razor.extensions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/7.0.16": {
+      "sha512": "4kMQlt6hBFXIiBjZ/gsM0WWVxJ+hD2JFxRi/GkgpT5XIPL3gIP+WAENQBvQLGzK8gUfhmhjq/f+i8TvNGZYrlw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.mvc.razor.runtimecompilation/7.0.16",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
+        "buildTransitive/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
+        "lib/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.xml",
+        "microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.16.nupkg.sha512",
         "microsoft.aspnetcore.mvc.razor.runtimecompilation.nuspec"
       ]
     },
@@ -12994,6 +12991,7 @@
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.15",
       "Microsoft.AspNetCore.Identity.UI >= 7.0.15",
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.15",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11",
@@ -13002,19 +13000,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ibrah\\.nuget\\packages\\": {}
+    "C:\\Users\\kordy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
+      "projectUniqueName": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
       "projectName": "Cuba Staterkit",
-      "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
-      "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\QuizSystem\\Cuba Staterkit\\obj\\",
+      "projectPath": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\Cuba Staterkit.csproj",
+      "packagesPath": "C:\\Users\\kordy\\.nuget\\packages\\",
+      "outputPath": "D:\\Quiz System\\QuizSystem\\Cuba Staterkit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13022,7 +13020,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "D:\\Work\\New Project\\env\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -13052,6 +13051,10 @@
           "Microsoft.AspNetCore.Identity.UI": {
             "target": "Package",
             "version": "[7.0.15, )"
+          },
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "target": "Package",
+            "version": "[7.0.16, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -13095,7 +13098,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

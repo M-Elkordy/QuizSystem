@@ -12,16 +12,109 @@ namespace Cuba_Staterkit.Controllers
     {
         private readonly IQuestion Question;
         private readonly IToastNotification toastNotification;
-        public QuestionController(IQuestion question, IToastNotification _toastNotification)
+        private readonly IWebHostEnvironment _environment;
+
+        public QuestionController(IQuestion question, IToastNotification _toastNotification, IWebHostEnvironment environment)
         {
             Question = question;
             toastNotification = _toastNotification;
+            _environment = environment;
         }
 
-      
+        //[HttpPost]
+        //public IActionResult UploadFiles(List<IFormFile> bodyImages)
+        //{
+        //    var fileNames = new List<string>();
 
-            [HttpPost]
-        public ActionResult Create([FromBody] List<QuestionViewModel> questions)
+        //    foreach (var file in bodyImages)
+        //    {
+        //        if (file != null && file.Length > 0)
+        //        {
+        //            var uploads = Path.Combine(_environment.WebRootPath, "uploads");
+        //            var fileName = Path.GetFileName(file.FileName);
+        //            var filePath = Path.Combine(uploads, fileName);
+
+        //            using (var fileStream = new FileStream(filePath, FileMode.Create))
+        //            {
+        //                file.CopyTo(fileStream);
+        //            }
+
+        //            fileNames.Add(fileName);
+        //        }
+        //    }
+
+        //    return Ok(fileNames);
+        //}
+
+        //[HttpPost]
+        //public async Task<IActionResult> UploadFiles()
+        //{
+        //    var uploads = Path.Combine(_environment.WebRootPath, "uploads");
+        //    if (!Directory.Exists(uploads))
+        //    {
+        //        Directory.CreateDirectory(uploads);
+        //    }
+
+        //    var filePaths = new List<string>();
+        //    foreach (var formFile in Request.Form.Files)
+        //    {
+        //        Console.WriteLine(formFile);
+        //        if (formFile.Length > 0)
+        //        {
+        //            var fileName = Guid.NewGuid().ToString() + "_" + formFile.FileName; //give each material a uniqu name to prevent override Files
+        //            // var fileName = Path.GetFileName(formFile.FileName);
+        //            var filePath = Path.Combine(uploads, fileName);
+
+        //            using (var stream = new FileStream(filePath, FileMode.Create))
+        //            {
+        //                await formFile.CopyToAsync(stream);
+        //            }
+
+        //            filePaths.Add(filePath);
+        //        }
+        //    }
+        //    return Ok(filePaths);
+        //}
+
+        [HttpPost]
+        public async Task<IActionResult> UploadFiles()
+        {
+            try
+            {
+                var uploads = Path.Combine(_environment.WebRootPath, "uploads");
+                if (!Directory.Exists(uploads))
+                {
+                    Directory.CreateDirectory(uploads);
+                }
+
+                var filePaths = new List<string>();
+                foreach (var formFile in Request.Form.Files)
+                {
+                    if (formFile.Length > 0)
+                    {
+                        var fileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(formFile.FileName);
+                        var filePath = Path.Combine(uploads, fileName);
+
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await formFile.CopyToAsync(stream);
+                        }
+
+                        filePaths.Add(filePath);
+                    }
+                }
+                return Ok(filePaths);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex}");
+            }
+        }
+
+
+
+        [HttpPost]
+        public ActionResult Create([FromBody] QuestionUploadVM data)
         {
             if (ModelState.IsValid)
             {
@@ -29,24 +122,22 @@ namespace Cuba_Staterkit.Controllers
                 Guid firstQuestionId = Guid.NewGuid();
 
                 // Process the received questions (e.g., save to the database)
-                for (int i = 0; i < questions.Count; i++)
+                for (int i = 0; i < data.questions.Count; i++)
                 {
                     Question question = new Question()
                     {
-                        ID = (i==0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
-                        Body = questions[i].Body,
-                        ImgUrl = questions[i].ImgUrl,
-                        Answers = string.Join(",", questions[i].Answers),
-                        CorrectAnswer = questions[i].CorrectAnswer,
+                        ID = (i == 0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
+                        Body = data.questions[i].Body,
+                        ImgUrl = data.filePaths[0],
+                        Answers = string.Join(",", data.questions[i].Answers),
+                        CorrectAnswer = data.questions[i].CorrectAnswer,
                         QuestionType = Questiontype.String,
                         AnswerType = Questiontype.String,
-                        QuizID = new Guid(questions[i].QuizID),
+                        QuizID = new Guid(data.questions[i].QuizID),
                         VersionID = firstQuestionId.ToString(), // Set VersionID to the ID of the first question for all questions
                     };
-
                     Question.InsertQuestion(question);
                 }
-
             }
             toastNotification.AddSuccessToastMessage("Questions Added Successfully");
             return RedirectToAction("CreateQuiz", "Assesment");

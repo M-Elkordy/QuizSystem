@@ -71,7 +71,7 @@
                                                         <div class="input-group">
                                                             <input class="form-control Question" id="Question" type="text" name="Body"
                                                                    placeholder="Example : What is the Measuring unit of Voltage ?">
-                                                            <input class="form-control ms-3 ImgUrl" type="file" name="ImgUrl" data-image-target="mainQuestion">
+                                                            <input class="form-control ms-3 ImgUrl" type="file" name="BodyImage" data-image-target="mainQuestion" id="BodyImage">
                                                             <button class="btn btn-secondary ms-2 rounded-pill viewImage" type="button" data-toggle="modal" data-target="#imagePreviewModal" data-image-target="mainQuestion">
                                                                 <i class="far fa-file-image" style="font-size: 18px;"></i>
                                                             </button>
@@ -83,7 +83,7 @@
                                                         <div class="input-group py-3">
                                                             <input type="radio" name="ans0" class='me-3 correct-answer' checked />
                                                             <input class="form-control answer" id="Answer" type="text" name="" placeholder="Example: Volt">
-                                                            <input class="form-control ms-2 ImgUrl" src="" id="Answer" type="file" placeholder="Example: Volt">
+                                                            <input class="form-control ms-2 ImgUrl ImgUrlAns" id="AnswerImage" type="file" placeholder="Example: Volt">
                                                             <button class="btn btn-success ms-4 an" type="button" data-version="main">
                                                                 <i class="fas fa-plus-circle"></i>
                                                             </button>
@@ -137,15 +137,15 @@
 @section Script{
     <!-- Plugins JS start-->
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <script src="../assets/js/sidebar-menu.js"></script>
+    @*<script src="../assets/js/sidebar-menu.js"></script>
     <script src="../assets/js/slick/slick.min.js"></script>
     <script src="../assets/js/slick/slick.js"></script>
     <script src="../assets/js/header-slick.js"></script>
-    <script src="../assets/js/form-wizard/form-wizard.js"></script>
+    <script src="../assets/js/form-wizard/form-wizard.js"></script>*@
 
     <!-- Plugins JS Ends-->
     <!-- Theme js-->
-    <script src="../assets/js/script.js"></script>
+    @*<script src="../assets/js/script.js"></script>*@
 
     <script>
 
@@ -213,7 +213,7 @@
                     "<label for='Question'><strong>Question Body :</strong></label>" +
                     "<div class='input-group'>" +
                     "<input class='form-control Question' id='Question' type='text' name='Body' placeholder='Example : What is the Measuring unit of Voltage ?'>" +
-                    "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' name='ImgUrl' placeholder='Example : Volt'>" +
+                    "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' name='ImgUrl' placeholder='Example : Volt' id='BodyImage'>" +
                     "<button class='btn btn-secondary ms-2 rounded-pill viewImage' type='button'><i class='far fa-file-image' style='font-size:18px;'></i></button>" +
                     "</div>" +
                     "</div>" +
@@ -222,7 +222,7 @@
                     "<div class='input-group py-3'>" +
                     "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer' checked />" +
                     "<input class='form-control answer' id='Answer' type='text' placeholder='Example : Volt'>" +
-                    "<input class='form-control ms-2 ImgUrl' id='Answer' type='file' placeholder='Example : Volt'>" +
+                    "<input class='form-control ms-2 ImgUrl ImgUrlAns' id='Answer' type='file' placeholder='Example : Volt'>" +
                     "<button class='btn btn-success ms-4 an' type='button'><i class='fas fa-plus-circle'></i></button>" +
                     "<button class='btn btn-secondary ms-2 rounded-pill viewImage' type='button'><i class='far fa-file-image' style='font-size:18px;'></i></button>" +
                     "</div>" +
@@ -247,7 +247,7 @@
                     "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
                     "<input type='radio' name='ans" + counter + "' class='me-3 correct-answer'/>" +
                     "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
-                    "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' placeholder='Example : Volt'>" +
+                    "<input class='form-control ms-3 ImgUrl ImgUrlAns' id='Answer' type='file' placeholder='Example : Volt'>" +
                     "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
                     "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
                     "</button>" +
@@ -267,7 +267,7 @@
                     "<div class='d-flex align-items-center justify-content-evenly py-4 input-group'>" +
                     "<input type='radio' name='ans0' class='me-3 correct-answer'/>" +
                     "<input type='text' class='form-control text-center text-black answer' placeholder='Answer'>" +
-                    "<input class='form-control ms-3 ImgUrl' id='Answer' type='file' placeholder='Example : Volt'>" +
+                    "<input class='form-control ms-3 ImgUrl ImgUrlAns' id='Answer' type='file' placeholder='Example : Volt'>" +
                     "<button class='btn btn-danger ms-4 removeRow' data-repeater-delete>" +
                     "<span class='align-middle'><i class='fas fa-backspace'></i></span>" +
                     "</button>" +
@@ -307,14 +307,164 @@
 
                 }).then((result) => {
                     if (result.isConfirmed) {
+                        
+                        //var questionsJson = [];
+                        //var formData = new FormData();
+                        //var answersURL = [];
+                        //$(".tab").each(function () {
+                        //    var fileInput = $(this).find("#BodyImage")[0];
+                        //    var file = fileInput.files[0];
+                        //    formData.append('bodyImage', file);
+                        //    answersURL.push(formData);
+
+                        //    var questionData = {
+                        //        Body: $(this).find(".Question").val(),
+                        //        Answers: [],
+                        //        CorrectAnswer: "",
+                        //        QuizID: QuizId.toString(),
+                        //        VersionID: ""
+                        //    };
+
+                        //    $(this).find('.ImgUrlAns').each(function () {
+                        //        var answerFileInput = $(this)[0]; // Access the DOM element
+                        //        var answerFile = answerFileInput.files; // Access files property on DOM element
+                        //        var answerFormData = new FormData();
+                        //        var i = 0;
+                        //        if (answerFile.length > 0) { // Check if any file is selected
+                        //            answerFormData.append('answerImage' + i, answerFile[0]); // Append the file to FormData
+                        //            answersURL.push(answerFormData);
+                        //        }
+                        //        i++;
+                        //        console.log(answersURL);
+                        //    });
+
+
+                        //    $(this).find(".answer").each(function () {
+                        //        questionData.Answers.push($(this).val());
+                        //    });
+
+                        //    questionData.CorrectAnswer = $(this).find('.correct-answer:checked').closest('.input-group').find('.answer').val();
+                        //    questionData.VersionID = $("#VersionID").val();
+                        //    questionsJson.push(questionData);
+                        //});
+
+                        //// Send the file and associated question data
+                        //$.ajax({
+                        //    url: '/Question/UploadFiles',
+                        //    type: 'POST',
+                        //    data: answersURL,
+                        //    contentType: false,
+                        //    processData: false,
+                        //    success: function (fileResponse) {
+                        //        // Once the file is uploaded, send the JSON data along with the file path
+                        //        console.log(fileResponse);
+                        //        console.log(JSON.stringify({ questions: questionsJson, filePaths: fileResponse }));
+                        //        $.ajax({
+                        //            url: '/Question/Create',
+                        //            type: 'POST',
+                        //            contentType: 'application/json',
+                        //            data: JSON.stringify({ questions: questionsJson, filePaths: fileResponse }), // Assuming fileResponse contains the file names
+                        //            success: function (response) {
+                        //                location.reload();
+                        //            },
+                        //            error: function (xhr, status, error) {
+                        //                console.error('Error sending data to server:', error);
+                        //            }
+                        //        });
+                        //    },
+                        //    error: function (xhr, status, error) {
+                        //        console.error('Error uploading file:', error);
+                        //    }
+                        //});
+
+                        //var questionsJson = [];
+                        //var formData = new FormData();
+
+                        //$(".tab").each(function () {
+                        //    var fileInput = $(this).find("#BodyImage")[0];
+                        //    var file = fileInput.files[0];
+                        //    formData.append('bodyImage', file);
+                        //    console.log(file);
+                        //    var questionData = {
+                        //        Body: $(this).find(".Question").val(),
+                        //        Answers: [],
+                        //        CorrectAnswer: "",
+                        //        QuizID: QuizId.toString(),
+                        //        VersionID: ""
+                        //    };
+
+                        //    $(this).find('.ImgUrlAns').each(function () {
+                        //        var answerFileInput = $(this)[0]; // Access the DOM element
+                        //        var answerFile = answerFileInput.files; // Access files property on DOM element
+                        //        if (answerFile.length > 0) { // Check if any file is selected
+                        //            formData.append('answerImages[]', answerFile[0]); // Append the file to FormData
+                        //            console.log(answerFile[0]);
+
+                        //        }
+                        //    });
+
+                        //    $(this).find(".answer").each(function () {
+                        //        questionData.Answers.push($(this).val());
+                        //    });
+
+                        //    questionData.CorrectAnswer = $(this).find('.correct-answer:checked').closest('.input-group').find('.answer').val();
+                        //    questionData.VersionID = $("#VersionID").val();
+                        //    questionsJson.push(questionData);
+                        //});
+
+                        //console.log(formData);
+
+                        //// Send the file and associated question data
+                        //$.ajax({
+                        //    url: '/Question/UploadFiles',
+                        //    type: 'POST',
+                        //    data: formData,
+                        //    contentType: false,
+                        //    processData: false,
+                        //    success: function (fileResponse) {
+                        //        // Once the file is uploaded, send the JSON data along with the file path
+                        //        console.log(fileResponse);
+                        //        console.log(JSON.stringify({ questions: questionsJson, filePaths: fileResponse }));
+                        //        $.ajax({
+                        //            url: '/Question/Create',
+                        //            type: 'POST',
+                        //            contentType: 'application/json',
+                        //            data: JSON.stringify({ questions: questionsJson, filePaths: fileResponse }), // Assuming fileResponse contains the file names
+                        //            success: function (response) {
+                        //                location.reload();
+                        //            },
+                        //            error: function (xhr, status, error) {
+                        //                console.error('Error sending data to server:', error);
+                        //            }
+                        //        });
+                        //    },
+                        //    error: function (xhr, status, error) {
+                        //        console.error('Error uploading file:', error);
+                        //    }
+                        //});
 
                         var questionsJson = [];
+                        var formData = new FormData();
 
                         $(".tab").each(function () {
+                            var fileInput = $(this).find("#BodyImage")[0];
+                            var file = fileInput.files[0];
+                            formData.append('bodyImage', file);
+
+                            //var i = 0;
+                            //$(this).find('.ImgUrlAns').each(function () {
+                            //    var answerFileInput = $(this)[0];
+                            //    var answerFiles = answerFileInput.files[0];
+                            //    formData.append('answerImages_' + i, answerFiles);
+                            //    i++;
+                            //});
+
+                            formData.forEach(function (value, key) {
+                                console.log(key + ': ' + value);
+                            });
 
                             var questionData = {
                                 Body: $(this).find(".Question").val(),
-                                ImgUrl: $(this).find(".ImgUrl").val(),
                                 Answers: [],
                                 CorrectAnswer: "",
                                 QuizID: QuizId.toString(),
@@ -330,22 +480,34 @@
                             questionsJson.push(questionData);
                         });
 
-                        console.log(questionsJson);
-
                         $.ajax({
-                            url: '/Question/Create',
+                            url: '/Question/UploadFiles',
                             type: 'POST',
-                            contentType: 'application/json',
-                            data: JSON.stringify(questionsJson),
-                            success: function (response) {
-
-                                location.reload();
+                            data: formData,
+                            contentType: false,
+                            processData: false,
+                            success: function (fileResponse) {
+                                console.log(fileResponse);
+                                console.log(JSON.stringify({ questions: questionsJson, filePaths: fileResponse }));
+                                $.ajax({
+                                    url: '/Question/Create',
+                                    type: 'POST',
+                                    contentType: 'application/json',
+                                    data: JSON.stringify({ questions: questionsJson, filePaths: fileResponse }),
+                                    success: function (response) {
+                                        location.reload();
+                                    },
+                                    error: function (xhr, status, error) {
+                                        console.error('Error sending data to server:', error);
+                                    }
+                                });
                             },
                             error: function (xhr, status, error) {
-
-                                console.error('Error sending data to server:', error);
+                                console.error('Error uploading file:', error);
                             }
                         });
+
+
 
                     } else if (result.dismiss === Swal.DismissReason.cancel) {
                         //msh 3arf aroo7 llcontroller
