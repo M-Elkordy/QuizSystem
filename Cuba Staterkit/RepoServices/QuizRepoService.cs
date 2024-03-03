@@ -47,5 +47,15 @@ namespace Cuba_Staterkit.RepoServices
         {
             
         }
+
+        public void ChangeQuizName(string quizName, string quizId)
+        {
+            Quiz? quiz = Context.Quizes.FirstOrDefault(q => q.Id == new Guid(quizId));
+            if (quiz != null)
+            {
+                quiz.Name = quizName;
+                Context.SaveChanges();
+            }
+        }
     }
 }

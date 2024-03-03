@@ -45920,12 +45920,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\24379d7e-9a0b-42f2-a87a-5f5a6cb76480_upload.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\13700d29-fb6e-4b73-abd7-2b34838ccb5e_Screenshot 2024-02-18 045323.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/24379d7e-9a0b-42f2-a87a-5f5a6cb76480_upload.png</RelativePath>
+      <RelativePath>uploads/13700d29-fb6e-4b73-abd7-2b34838ccb5e_Screenshot 2024-02-18 045323.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -45934,14 +45934,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\24379d7e-9a0b-42f2-a87a-5f5a6cb76480_upload.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\13700d29-fb6e-4b73-abd7-2b34838ccb5e_Screenshot 2024-02-18 045323.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2c2d217a-e656-4fec-9a34-5d78818fd788_image2.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\34834780-904a-4034-8965-9529398501ac_Screenshot 2024-02-18 045654.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/2c2d217a-e656-4fec-9a34-5d78818fd788_image2.png</RelativePath>
+      <RelativePath>uploads/34834780-904a-4034-8965-9529398501ac_Screenshot 2024-02-18 045654.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -45950,14 +45950,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2c2d217a-e656-4fec-9a34-5d78818fd788_image2.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\34834780-904a-4034-8965-9529398501ac_Screenshot 2024-02-18 045654.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\425ee8af-0eb7-43c9-8cbf-8fd1243f7120_image1.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\998970e5-9803-419b-8dfd-b7d92b1fc977_Screenshot 2024-02-18 045223.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/425ee8af-0eb7-43c9-8cbf-8fd1243f7120_image1.png</RelativePath>
+      <RelativePath>uploads/998970e5-9803-419b-8dfd-b7d92b1fc977_Screenshot 2024-02-18 045223.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -45966,14 +45966,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\425ee8af-0eb7-43c9-8cbf-8fd1243f7120_image1.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\998970e5-9803-419b-8dfd-b7d92b1fc977_Screenshot 2024-02-18 045223.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\60bf0e0f-1ac2-42a6-a331-68a71dda69df_Screenshot 2024-02-18 045223.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a28d3c93-4a96-498f-bf8d-d65899c56564_Screenshot 2024-02-18 045354.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/60bf0e0f-1ac2-42a6-a331-68a71dda69df_Screenshot 2024-02-18 045223.png</RelativePath>
+      <RelativePath>uploads/a28d3c93-4a96-498f-bf8d-d65899c56564_Screenshot 2024-02-18 045354.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -45982,14 +45982,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\60bf0e0f-1ac2-42a6-a331-68a71dda69df_Screenshot 2024-02-18 045223.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a28d3c93-4a96-498f-bf8d-d65899c56564_Screenshot 2024-02-18 045354.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e002d40-d7c1-403b-9148-2f713f5dcdbd_image1.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d5943f76-da8b-47d4-a11e-e304d7713f18_Screenshot 2024-02-18 045734.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/6e002d40-d7c1-403b-9148-2f713f5dcdbd_image1.png</RelativePath>
+      <RelativePath>uploads/d5943f76-da8b-47d4-a11e-e304d7713f18_Screenshot 2024-02-18 045734.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -45998,14 +45998,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e002d40-d7c1-403b-9148-2f713f5dcdbd_image1.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d5943f76-da8b-47d4-a11e-e304d7713f18_Screenshot 2024-02-18 045734.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7499c247-7368-4499-9458-25878d2bc175_image1.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d8a6ed4d-e8bc-4131-895b-8886cde4ac24_Screenshot 2024-02-18 045448.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuba Staterkit</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/7499c247-7368-4499-9458-25878d2bc175_image1.png</RelativePath>
+      <RelativePath>uploads/d8a6ed4d-e8bc-4131-895b-8886cde4ac24_Screenshot 2024-02-18 045448.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -46014,135 +46014,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7499c247-7368-4499-9458-25878d2bc175_image1.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\83355c0e-63b0-4464-98f5-6caa3aee7d8f_image2.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/83355c0e-63b0-4464-98f5-6caa3aee7d8f_image2.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\83355c0e-63b0-4464-98f5-6caa3aee7d8f_image2.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8a4399e1-80f4-4e84-ae79-b81786437747_Screenshot 2024-02-18 045354.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/8a4399e1-80f4-4e84-ae79-b81786437747_Screenshot 2024-02-18 045354.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8a4399e1-80f4-4e84-ae79-b81786437747_Screenshot 2024-02-18 045354.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\909ba691-7070-4cad-9e04-944bf265e1ec_upload.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/909ba691-7070-4cad-9e04-944bf265e1ec_upload.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\909ba691-7070-4cad-9e04-944bf265e1ec_upload.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\99c537d5-5529-43d3-9a51-89516ce568c5_Screenshot 2024-02-18 045448.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/99c537d5-5529-43d3-9a51-89516ce568c5_Screenshot 2024-02-18 045448.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\99c537d5-5529-43d3-9a51-89516ce568c5_Screenshot 2024-02-18 045448.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\af440d97-0010-418d-881f-537a7b00845b_image2.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/af440d97-0010-418d-881f-537a7b00845b_image2.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\af440d97-0010-418d-881f-537a7b00845b_image2.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2de6887-87a5-4e29-90fd-6630385abede_upload.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/b2de6887-87a5-4e29-90fd-6630385abede_upload.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2de6887-87a5-4e29-90fd-6630385abede_upload.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e58868ec-3a72-4ff6-a052-a00fbeafabb7_upload.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/e58868ec-3a72-4ff6-a052-a00fbeafabb7_upload.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e58868ec-3a72-4ff6-a052-a00fbeafabb7_upload.png))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f932b329-bba9-440a-a851-9f7b69bebffe_image2.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cuba Staterkit</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cuba Staterkit</BasePath>
-      <RelativePath>uploads/f932b329-bba9-440a-a851-9f7b69bebffe_image2.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f932b329-bba9-440a-a851-9f7b69bebffe_image2.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d8a6ed4d-e8bc-4131-895b-8886cde4ac24_Screenshot 2024-02-18 045448.png))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

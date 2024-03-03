@@ -81,5 +81,10 @@ namespace Cuba_Staterkit.RepoServices
             }
 
         }
+
+        public int GetLastSessionNumber()
+        {
+            return Context.Sessions.OrderByDescending(s => s.SessionNumber).First().SessionNumber;
+        }
     }
 }

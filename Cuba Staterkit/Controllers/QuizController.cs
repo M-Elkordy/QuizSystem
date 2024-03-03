@@ -26,6 +26,7 @@ namespace Cuba_Staterkit.Controllers
         public IActionResult AllQuizes()
         {
             List<Quiz> Quizes = Quiz.GetAll();
+            ViewBag.lastSessionNumber = _session.GetLastSessionNumber();
             return View(Quizes);
         }
 
@@ -74,6 +75,13 @@ namespace Cuba_Staterkit.Controllers
         public void DeleteQuiz(Guid Id)
         {
             _session.DeleteSession(Id);
+        }
+
+        [HttpPost]
+        public IActionResult EditQuizName([FromBody] QuizVM quizInfo)
+        {
+            Quiz.ChangeQuizName(quizInfo.QuizName, quizInfo.QuizId);
+            return Json(new { success = true }); // Return JSON response
         }
 
     }

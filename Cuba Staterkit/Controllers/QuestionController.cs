@@ -62,33 +62,32 @@ namespace Cuba_Staterkit.Controllers
         [HttpPost]
         public ActionResult Create([FromBody] QuestionUploadVM data)
         {
-            StringBuilder correctAnswerStr = new StringBuilder();
-            List<string> correctAnswerURL = new List<string>();
-            foreach (var item in data.filePaths)
-            {
-                if(item.Key != "bodyImage")
-                {
-                    correctAnswerURL.Add(item.Value);
-                    correctAnswerStr.Append(item.Value);
-                    correctAnswerStr.Append(",");
-                }
-            }
-
-            string answersUrl = correctAnswerStr.ToString().TrimEnd(',');
-
             if (ModelState.IsValid)
             {
-                // Generate a GUID for the first question
                 Guid firstQuestionId = Guid.NewGuid();
-
-                // Process the received questions (e.g., save to the database)
                 for (int i = 0; i < data.questions.Count; i++)
                 {
+                    StringBuilder correctAnswerStr = new StringBuilder();
+                    List<string> correctAnswerURL = new List<string>();
+                    foreach (var item in data.filePaths)
+                    {                      
+                        if (item.Key.Contains("bodyImage_") && item.Key[item.Key.Length - 1].ToString() != (i).ToString())
+                            break;
+                        if (item.Key != ("bodyImage_" + i))
+                        {
+                            correctAnswerURL.Add(item.Value);
+                            correctAnswerStr.Append(item.Value);
+                            correctAnswerStr.Append(",");
+                            data.filePaths.Remove(item.Key);
+                        }
+                    }
+                    string answersUrl = correctAnswerStr.ToString().TrimEnd(',');
+
                     Question question = new Question()
                     {
-                        ID = (i == 0) ? firstQuestionId : Guid.NewGuid(), // Generate a new GUID for each question
+                        ID = (i == 0) ? firstQuestionId : Guid.NewGuid(),
                         Body = data.questions[i].Body,
-                        ImgUrl = data.filePaths["bodyImage"],
+                        ImgUrl = data.filePaths["bodyImage_" + i],
                         Answers = string.Join(",", data.questions[i].Answers),
                         AnswersURL = answersUrl,
                         CorrectAnswerUrl = correctAnswerURL[data.questions[i].CorrectAnswerIndex],
@@ -96,9 +95,10 @@ namespace Cuba_Staterkit.Controllers
                         QuestionType = Questiontype.String,
                         AnswerType = Questiontype.String,
                         QuizID = new Guid(data.questions[i].QuizID),
-                        VersionID = firstQuestionId.ToString(), // Set VersionID to the ID of the first question for all questions
+                        VersionID = firstQuestionId.ToString(), 
                     };
                     Question.InsertQuestion(question);
+                    data.filePaths.Remove("bodyImage_" + i);
                 }
             }
             toastNotification.AddSuccessToastMessage("Questions Added Successfully");
